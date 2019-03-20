@@ -8,9 +8,9 @@ weight: 0
 ---
 ## Inför Sprintplanering
 
-Kravställarna äger backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina User Stories och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive User Story. Under detta arbete kan det vara lämpligt att även bryta ner varje story i Tasks.
+Kravställarna äger Backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina User Stories och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive User Story. Under detta arbete kan det vara lämpligt att även bryta ner varje story i Tasks.
 
-Detta är något som sker fortlöpande hela tiden. Det gäller att hålla Backloggen levande och aktuell, det är kravställarens ansvar. Arbetet med Backloggen fortsätter alltså under hela sprinten parallellt.
+Detta är något som sker fortlöpande hela tiden. Det gäller att hålla Backloggen levande och aktuell, det är kravställarens ansvar. Arbetet med Backloggen fortsätter alltså parallellt under hela sprinten.
 
 ## Sprintplaneringen
 
@@ -50,7 +50,7 @@ Läggs tillbaka i Backloggen för prioritering till nästa sprintplanering.
 
 ### Ej färdigställda User Storys
 
-Om en Users Story nästan är klar, t ex om de flesta Acceptanskriterier är uppfyllda, kan man skriva en ny User Story med Acceptanskriterier som ej levererades och lägga den på Backloggen för prioritering till nästa sprint.
+Om en Users Story nästan är klar, t ex om de flesta Acceptanskriterier är uppfyllda, kan man skriva en ny User Story med Acceptanskriterier som ej levererades och lägga den på Backloggen för prioritering till nästa sprint. Kravställaren uppdaterar den ursprungliga User Storyn och tar bort de Acceptanskriterier som inte levererades och sätter om den till Closed.
 
 ### Buggar 
 
