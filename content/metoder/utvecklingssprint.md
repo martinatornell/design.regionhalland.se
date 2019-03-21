@@ -3,18 +3,18 @@ title: "Utvecklingsprint"
 linktitle: "Utvecklingsprint"
 date: 2019-03-20T08:10:27+01:00
 draft: false
-description: "Hur vi arbetar med utvecklingssprintar."
+description: "Hur vi arbetar med utvecklingssprintar"
 weight: 0
 ---
 ## Inför Sprintplanering
 
-Kravställarna äger Backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina User Stories och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive User Story. Under detta arbete kan det vara lämpligt att även bryta ner varje story i Tasks.
+Kravställarna äger backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina [User Stories](/metoder/userstories/) och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive [User Story](/metoder/userstories/). Under detta arbete kan det vara lämpligt att även bryta ner varje story i [Tasks](/verktyg/devops/#tasks).
 
-Detta är något som sker fortlöpande hela tiden. Det gäller att hålla Backloggen levande och aktuell, det är kravställarens ansvar. Arbetet med Backloggen fortsätter alltså parallellt under hela sprinten.
+Detta är något som sker fortlöpande hela tiden. Det gäller att hålla [Backloggen](/verktyg/devops/#backlog) levande och aktuell, det är kravställarens ansvar. Arbetet med Backloggen fortsätter alltså under hela sprinten parallellt.
 
 ## Sprintplaneringen
 
-På sprintplaneringen prioriteras slutligen vilka User Stories som ska tas in i sprinten och respektive Task tilldelas en person i teamet. De User Stories som får plats i sprinten läggs över från Backloggen till sprinten, därmed assignas även tillhörande Tasks till sprinten.
+På sprintplaneringen prioriteras slutligen vilka User Stories som ska tas in i sprinten och respektive Task tilldelas en person i teamet. De User Stories som får plats i sprinten läggs över från Backloggen till sprinten, därmed assignas även tillhörande Tasks till sprinten.
 
 ## Under utvecklingssprinten
 
@@ -46,13 +46,13 @@ I en perfekt sprint finns det varken öppna buggar eller user storys kvar... Men
 
 ### Ej påbörjade User Storys
 
-Läggs tillbaka i Backloggen för prioritering till nästa sprintplanering.
+Läggs tillbaka i Backloggen för prioritering till nästa sprintplanering.
 
 ### Ej färdigställda User Storys
 
-Om en Users Story nästan är klar, t ex om de flesta Acceptanskriterier är uppfyllda, kan man skriva en ny User Story med Acceptanskriterier som ej levererades och lägga den på Backloggen för prioritering till nästa sprint. Kravställaren uppdaterar den ursprungliga User Storyn och tar bort de Acceptanskriterier som inte levererades och sätter om den till Closed.
+Om en Users Story nästan är klar, t ex om de flesta Acceptanskriterier är uppfyllda, kan man skriva en ny User Story med Acceptanskriterier som ej levererades och lägga den på Backloggen för prioritering till nästa sprint.
 
-### Buggar 
+### Buggar 
 
 De buggar som inte stängts placeras på Backloggen och prioriteras.
 
