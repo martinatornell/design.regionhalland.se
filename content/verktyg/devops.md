@@ -13,19 +13,22 @@ För att kunna följa arbetet med våra olika utveklingsinitivativ, lagra källk
 
 ## Begrepp i DevOps
 
-### Workitems
+### Backlog
+Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg beskrivas som det kommande arbetet för ett team eller projekt. Det är i backloggen man samlar på sig och prioriterar arbetsuppgifter (workitems). På många sätt kan backloggen ses som en kravlista men med skillanden att backloggen är ett leveande dokument. Man jobbar med andra ord inte med låsta scope utan om prioriteter kontinuerligt beroende på hur arbetet går i [utvecklingssprintarna](/metoder/utvecklingssprint/).
+
+#### Workitems
 I DevOps finns ett antal olika workitems, de vi primärt använder beskrivs nedan. Ett workitem är helt enkelt en beskrivning över vad som behöver göras.
 
-#### Epics
+##### Epics
 En Epic är den största abstraktionen vi har av ett projekt eller satsning. Vi använder epics för att på helikopternivå kunna följa våra olika projekt och se att vår gemensamma portfölj ligger i synk. Ett projekt kan bestå av ett flertal Epics och bör alltid vara uppdelade så att arbetet kan göras klart inom ca. ett kvartal. Vanligvis skrivs och hanteras Epics av Objektägaren tillsammans med Digitaliseringsenheten. Vi använder Epics enbart på portföljninvån och inte på team nivå.
 
-#### Features
+##### Features
 En Epic består av flera features. En feature är en övergripande förmåga som en tjänst ska leverera. Exempel på features kan vara "Inloggning", "Att kunna söka i styrda dokument" eller "Listning av klienter". En Feature består i sin tur av flera Stories. Vanligtvis skrivs både features och stories av Objektledaren. En bra måttstock är att en feature kan levereras inom 1-2 sprintar. Är featuren större än så bör den delas upp i flera features.
 
-#### User Stories
+##### User Stories
 Stories i DevOps är kanske den viktigaste pusselbiten då det är här man konkretiserar vad som de facto ska produceras. Formatet bör vara att man skriver [user stories](/metoder/userstories/) med tydliga [acceptanskriterier](/metoder/userstories/#acceptanskriterier). Även här bör man tänka på storleken och inte låta user storien bli större än någon/några veckors jobb.
 
-#### Tasks
+##### Tasks
 Om en produktägare, eller objektledare, är den som skriver Features och Stories så bör arbetet med Tasks hanteras av det utförande teamet. Tasks är teamets chans att i varje sprint själva tydliggöra och fördela arbetet kring hur man uppfyller acceptanskriterierna på en viss Story. Vi skriver alltid minst en Task per Story, detta ger oss också bl.a. möjligheten att följa upp tiden i burn-down charts då tiden läggs per Task. 
 
 ### Pipelines
