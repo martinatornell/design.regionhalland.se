@@ -13,6 +13,31 @@ Denna sida är just nu under arbete och kommer att uppdateras/ändras. Har du sy
 {{% /box %}}
 
 
+{{<figure src="/images/handbocker/ordnatinforande/spar.png" link="/images/handbocker/ordnatinforande/spar.png" title="Ordnat införande - våra 3 spår">}}
+
+
+Tjänster vi inte själva använder men har tagit in i vårt utbud och ebentuellt använder data från. Tjänster vi själva använder i vårt arbete."
+
+## Spår 1 - Fristående tjänster som vi rekomenderar:
+
+Viktigt att tydliggöra att det endast är en rekommendation, att vi inte har något ansvar för tjänsten, inga data utbyts. Går inte in i objekten utan sköts utanför.
+   - Samla rekommendationerna i form av en lista/wiki på exempel 1177 eller regionhalland.se.
+   - Information finns på sidan om vad rekommendationen innebär som man kan hänvisa sina patienter/invånare till
+
+## Spår 2 - Tjänster som vi tar med i vårt utbud i Region Halland och riktar sig till invånaren men där data används av oss:
+
+Viktigt att den går igenom från ide till produktions flödet för att säkra upp att det passar in i Region Hallands struktur.
+   - Omhändertas i ett objekt och betraktas som en del av verksamhetens process och därav bli en del av ordnat införande.
+   - Underlaget till det ordnade införandet utgår från checklistan nedan som tar upp lagkrav, ekonomi, användbarhet m.m. för att säkra att tjänsten möter behovet och att tjänsten är anpassad till Region Hallands regelverk.
+   - Integreras i Region Hallands appen.
+
+## Spår 3 - Tjänster som vi tar med i vårt utbud i Region Halland och riktar sig till medarbetarna i vår organisation:
+Viktigt att den går igenom från ide till produktions flödet för att säkra upp att det passar in i Region Hallands struktur.
+   - Omhändertas i ett objekt och betraktas som en del av verksamhetens process och därav bli en del av ordnat införande.
+   - Underlaget till det ordnade införandet utgår från checklistan nedan som tar upp lagkrav, ekonomi, användbarhet m.m. för att säkra att tjänsten möter behovet och att tjänsten är anpassad till Region Hallands regelverk.
+   - Integreras i Region Hallands appen.
+
+
 ## Ordnat införande av digitala tjänster
 
 ### Checklista
