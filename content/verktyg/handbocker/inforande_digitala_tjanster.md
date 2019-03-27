@@ -68,10 +68,10 @@ Viktigt att den går igenom från ide till produktions flödet för att säkra u
 
 - [ ] Hur ser möjligheten ut till integration?
 - [ ] Följer tjänsten Regionens integrationsstrategi?
-- [ ] (Går den att integrera med vår egen app?)
-- [ ] (Går det att integrera med önskat verksamhetssystem?)
-- [ ] (Hur lagras data?)
-- [ ] (Finns API?)
+- [ ] Går den att integrera med vår egen app?
+- [ ] Går det att integrera med önskat verksamhetssystem?
+- [ ] Hur lagras data?
+- [ ] Finns API?
 
 #### Teknik, Stabilitet & Säkerhet
 
