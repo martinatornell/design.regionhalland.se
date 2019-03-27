@@ -22,6 +22,46 @@ Nyckelfrågor  Vem är den primära användaren av tjänsten? Varför vill anvä
     </item>
     
     <item>
+      <title>ArchiMate</title>
+      <link>http://localhost:1313/verktyg/archimate/</link>
+      <pubDate>Mon, 11 Feb 2019 09:17:43 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/archimate/</guid>
+      <description>Varför Archimate? Vi använder Archimate som gemensamt notationsspråk. Att ha ett gemensamt notationsspråk ger oss följande fördelar:
+ Minska risken för missförstånd Undvika merarbete/omarbeta Sätta saker i ett sammanhang Gemensamt språk Förenkla kommunikation  Vad är Archimate?  ArchiMate är ett öppet, oberoende och internationellt standardiserat modelleringsspråk ArchiMate ger ett verktyg för att beskriva, analysera och visualisera objekt och relationer ArchiMate erbjuder ett gemensamt språk för att beskriva konstruktion och användning, från strategi och affärs- &amp;amp; verksamhetsarkitektur via data- och applikationsarkitektur till infrastrukturarkitektur.</description>
+    </item>
+    
+    <item>
+      <title>I Azure DevOps följer vi våra utvecklingsprojekt från idé till produktion</title>
+      <link>http://localhost:1313/verktyg/devops/</link>
+      <pubDate>Mon, 11 Feb 2019 09:17:43 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/devops/</guid>
+      <description>För att kunna följa arbetet med våra olika utveklingsinitivativ, lagra källkod och säkerställa gemensamma arbetsätt använder vi verktyget Azure DevOps.
+ Logga in i DevOps  Begrepp i DevOps Backlog Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg beskrivas som det kommande arbetet för ett team eller projekt. Det är i backloggen man samlar på sig och prioriterar arbetsuppgifter (workitems). På många sätt kan backloggen ses som en kravlista men med skillanden att backloggen är ett leveande dokument.</description>
+    </item>
+    
+    <item>
+      <title>Från idé till produktion</title>
+      <link>http://localhost:1313/metoder/ide_till_produktion/</link>
+      <pubDate>Sat, 25 Feb 2017 13:13:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/metoder/ide_till_produktion/</guid>
+      <description>Översikt Vårt utvecklingsflöde för digitala tjänster baseras på följande process flöde:
+ Vi samlar in behov som är baserade på:  kundbehov strategiska mål regler och lagstiftning förändringar i affärsvillkor eller teknik  Vi hanterar alla inkommande krav och skapar koncept utifrån behoven Genom portföljhantering utvärderar vi koncepten och leder dem till utvecklingsköer Utvecklingsteam utvecklar koncepten till realiserade tjänster eller produkter enligt agila metoder. Realiserade tjänster och produkter hanteras därefter med hjälp av våra ITSM processer av RGS IT.</description>
+    </item>
+    
+    <item>
+      <title>Utvecklingssprint</title>
+      <link>http://localhost:1313/metoder/utvecklingssprint/</link>
+      <pubDate>Wed, 20 Mar 2019 08:10:27 +0100</pubDate>
+      
+      <guid>http://localhost:1313/metoder/utvecklingssprint/</guid>
+      <description>Inför Sprintplanering Kravställarna äger backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina User Stories och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive User Story. Under detta arbete kan det vara lämpligt att även bryta ner varje story i Tasks.
+Detta är något som sker fortlöpande hela tiden. Det gäller att hålla Backloggen levande och aktuell, det är kravställarens ansvar.</description>
+    </item>
+    
+    <item>
       <title>Handbok för utveckling av .NET webbapplikationer</title>
       <link>http://localhost:1313/verktyg/handbocker/utvecklingshandbocker/webapplikation/</link>
       <pubDate>Fri, 01 Feb 2019 09:07:05 +0100</pubDate>
@@ -41,7 +81,7 @@ Webbapplikationen Webbapplikationer I Region Halland utvecklas med tre olika ram
     </item>
     
     <item>
-      <title>Anvandartestning</title>
+      <title>Användartestning</title>
       <link>http://localhost:1313/metoder/anvandartestning/</link>
       <pubDate>Thu, 31 Jan 2019 21:12:07 +0100</pubDate>
       
@@ -64,11 +104,13 @@ Webbapplikationen Webbapplikationer I Region Halland utvecklas med tre olika ram
       <pubDate>Thu, 31 Jan 2019 21:10:07 +0100</pubDate>
       
       <guid>http://localhost:1313/metoder/effektkartor/</guid>
-      <description></description>
+      <description>Syftet med effektkartor är att tydliggöra vilka effekter man vill uppnå med en satsning, ny produkt eller tjänst. Genom att koppla dess effekter till konkreta handlingar säkerställer man att verksamheten levererar faktisk nytta för både verksamhet och kund.
+Exempel på effektkarta
+Visa stor bild    Nivå 1: Varför? Vad är en effekt Effekten är det du vill uppnå i slutändan. Oftast handlar detta om konkreta mål som driver affärsnytta:</description>
     </item>
     
     <item>
-      <title>Userstories</title>
+      <title>User stories</title>
       <link>http://localhost:1313/metoder/userstories/</link>
       <pubDate>Thu, 31 Jan 2019 21:09:57 +0100</pubDate>
       
@@ -76,6 +118,15 @@ Webbapplikationen Webbapplikationer I Region Halland utvecklas med tre olika ram
       <description>En user story, eller användarhistoria, är en kort mening som konkret beskriver vad din användare vill uppnå. Tillsammans med acceptanskriterier beskriver den vad ni skall producera.
 Format En user story har en enkel men effektiv uppbyggnad och synliggör vem som vill göra vad och varför.
 Som användartyp vill jag mål/önskan/händelse så att syfte   Användartyp ‐ En användartyp är en av dina målgrupper eller personas. Dessa kan vara både externa och interna, se exemplen nedan.</description>
+    </item>
+    
+    <item>
+      <title>Digital stilguide</title>
+      <link>http://localhost:1313/verktyg/stilguiden/</link>
+      <pubDate>Thu, 31 Jan 2019 21:03:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/stilguiden/</guid>
+      <description>Vår stilguide är en sammanställning av gemensamma byggstenar som alla våra digitala gränssnitt ska följa så långt det är möjligt. Syftet är att skapa enhetlighet för användaren så att våra tjänster och verktyg känns igen och är enkla att använda. Med hjälp av en stilguide skapar vi även möjlighet att säkerställa kvalité och ger oss förmågan att arbeta snabbt. Alla komponenter i stilguiden är användartestade, tillgänglighetsanpassade och uppdateras kontinuerligt av våra webb-team.</description>
     </item>
     
     <item>
@@ -93,16 +144,8 @@ Som användartyp vill jag mål/önskan/händelse så att syfte   Användartyp �
       <pubDate>Wed, 30 Jan 2019 14:26:10 +0100</pubDate>
       
       <guid>http://localhost:1313/anvand-moderna-tekniklosningar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leverera ofta</title>
-      <link>http://localhost:1313/skapa-en-organisation-fokuserad-pa-leverans/</link>
-      <pubDate>Wed, 30 Jan 2019 14:25:57 +0100</pubDate>
-      
-      <guid>http://localhost:1313/skapa-en-organisation-fokuserad-pa-leverans/</guid>
-      <description></description>
+      <description>De val vi gör gällande teknik måste i första hand främja våra utvecklingsteam så att de kan arbeta effektivt och så snabbt som möjligt leverera bästa tänkbara lösning för våra användare. Våra val av databaser, ramverk, servrar m.m. skall kunna hantera skalbarhet och motvärka inlåsningseffekter till en viss teknik eller leverantör. Vi bör alltid sträva efter att nyttja tekniker med standardiserade lösningar, gärna som bygger på öppen källkod.
+Nyckelfrågor  inns det risk för att vi valt en teknik som låser oss till en viss leverantör eller arkitektur?</description>
     </item>
     
     <item>
@@ -120,7 +163,7 @@ Som användartyp vill jag mål/önskan/händelse så att syfte   Användartyp �
       <pubDate>Wed, 30 Jan 2019 14:25:29 +0100</pubDate>
       
       <guid>http://localhost:1313/arbeta-med-standiga-forbattringar/</guid>
-      <description></description>
+      <description>Sedan några år har Region Halland anammat Lean som verksamhetsstrategi. Detta vill vi givetvis även ska innefatta arbetet med att förvalta så väl som skapa nya tjänster. Genom att släppa nya förmågor till användaren så ofta som möjligt så minimerar vi risk genom att tidigt kunna få feedback på det vi producerar, risken för att vi missar våra övergripande effektmål hålls ner med återkommande uppdateringar. Är tjänsten vi tar fram digital ska vi med nyttja de förmågor som finns i Azure DevOps för att förenkla arbetet med att uppdatera vår tjänst.</description>
     </item>
     
     <item>
@@ -184,7 +227,7 @@ Hur förbättras din tjänst? Att interagera med Region Halland innebär i princ
       <pubDate>Thu, 24 Jan 2019 11:20:04 +0100</pubDate>
       
       <guid>http://localhost:1313/verktyg/tjanster/e-tjansteplattform/</guid>
-      <description></description>
+      <description>E-tjänsteplattformen är ett av våra många verktyg och används till att samla in data, godkänna aktiviteter, skapa ärenden och mycket mer. E-tjänsteplattformen är uppdelad mellan interna och externa tjänster och denna uppdelning ger oss möjlighet att tillgodose tjänster till både medarbetare och medborgare. Exempel på interna tjänster som skapats är möjligheten att ansöka om friskvårdsbidrag. Ett exempel på en extern tjänst som är under uppbyggnad är bl.a. självincheckning direkt vid mottagning.</description>
     </item>
     
     <item>
@@ -238,7 +281,8 @@ Hur förbättras din tjänst? Att interagera med Region Halland innebär i princ
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
       
       <guid>http://localhost:1313/kvalitet-och-uppfoljning/informationssakerhet/</guid>
-      <description></description>
+      <description>Informationssäkerhet innebär att säkra att information, i alla dess former, finns tillgänglig när den behövs, att den är korrekt, att obehöriga inte kan få tillgång till den och att det går att spåra hur informationen har hanterats.
+Läs mer om informationssäkerhet på intranätet eller kontakta oss direkt.</description>
     </item>
     
     <item>
@@ -247,15 +291,6 @@ Hur förbättras din tjänst? Att interagera med Region Halland innebär i princ
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
       
       <guid>http://localhost:1313/kvalitet-och-uppfoljning/matbarhet-och-feedback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pågående projekt och initiativ</title>
-      <link>http://localhost:1313/kvalitet-och-uppfoljning/pagaende-projekt-och-initiativ/</link>
-      <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
-      
-      <guid>http://localhost:1313/kvalitet-och-uppfoljning/pagaende-projekt-och-initiativ/</guid>
       <description></description>
     </item>
     
@@ -277,7 +312,7 @@ Hur förbättras din tjänst? Att interagera med Region Halland innebär i princ
       <description>Alla kan bidra med innehåll till denna webbplats genom att skicka in så kallade pull requests på GitHub. Även om det låter tekniskt så är processen enkel och säker.
 Steg för steg    Leta upp den sida du vill redigera &amp;hellip;och klicka på &amp;ldquo;Redigera denna sidan&amp;rdquo;
  Logga in Skapa konto och logga in på GitHub.
- Redigera sidan När du är inloggad kan du redigera sidan genom att klicka på redigera ikonen:    Genomför dina ändringar Ett tips här är att läsa på lite om Hugos s.</description>
+ Redigera sidan När du är inloggad kan du redigera sidan genom att klicka på redigera ikonen:   Genomför dina ändringar Ett tips här är att läsa på lite om Hugos s.</description>
     </item>
     
     <item>
@@ -323,7 +358,7 @@ Logotypens symbolik Logotypen består av symbol och text. Symbolen utgörs av en
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
       
       <guid>http://localhost:1313/kvalitet-och-uppfoljning/vara-digitala-kanaler/</guid>
-      <description>Lista samtliga webbplatser, appar osv. med tillhörande; - syfte - mål - kontaktuppgifter - ev. lista ansvariga - ev. länkar till forum, teams, devops osv. - ev. länkar till tillgänglighetsredogörelser - ev. länkar till prestandatester - ev. länkar till rapporter</description>
+      <description>Lista samtliga webbplatser, appar osv. med tillhörande; - syfte - mål - kontaktuppgifter - ev. lista ansvariga - ev. länkar till forum, teams, DevOps osv. - ev. länkar till tillgänglighetsredogörelser - ev. länkar till prestandatester - ev. länkar till rapporter</description>
     </item>
     
     <item>

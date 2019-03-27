@@ -2,7 +2,7 @@
 
 
 <div class="px-4 pt-8 md:pt-16 pb-12 w-full max-w-2xl mx-auto">
-	<div class="flex flex-wrap items-stretch -mx-4 justify-start">
+	<div class="-mx-4">
 		<main class="w-full px-4">
 
 
@@ -15,7 +15,6 @@
 					{{ .Param "description" }}
 				</p>
 
-
 			{{ .Content }}
 
 			{{ $list := .CurrentSection.Pages }}
@@ -24,16 +23,18 @@
 			{{ $curPage := .UniqueID }}
 			{{ $.Scratch.Set "counter" 0 }}
 
-			<div class="flex flex-wrap items-stretch -mx-4">
+
+			<div class="px-4"></div>
+			<div class="-mx-4 flex flex-wrap">
 
 			{{ range $index, $element := $list.ByWeight }}
 			   {{if eq .CurrentSection $parent}}
 
 					{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
 
-				   <div class="w-full sm:w-6/12 lg:w-4/12 mb-4 flex items-stretch">
-					   <div class="shadow border border-grey-lightest m-4 p-4 flex flex-col align-between w-full">
-						   <article class="article flex-1">
+				   <div class="w-full sm:w-6/12 lg:w-4/12 px-4">
+					   <div class="p-4 w-full">
+						   <article class="article">
 							   <h2 style="margin-top: 0;">
 							   {{$.Scratch.Get "counter"}}. {{ .Title }}
 							   </h2>
@@ -42,7 +43,11 @@
 							   </p>
 						   </article>
 
-						   <a href="{{.Permalink }}" class="inline-flex no-underline text-white bg-blue-dark hover:underline px-6 items-center justify-between py-4 text-lg rounded">{{ .Title }} <i data-feather='chevron-right' class='flex-initial w-4 h-4 ml-2'></i></a>
+
+
+						   <a href="{{.Permalink }}" class="no-underline text-white bg-blue-dark hover:bg-yellow-light hover:underline hover:text-black px-6 py-4 text-lg rounded block my-4 flex justify-between">
+							   <span>{{ .Title }}</span> 
+							   <i data-feather='chevron-right' class='self-center w-4 h-4 ml-2'></i></a>
 
 					   </div>
 				   </div>

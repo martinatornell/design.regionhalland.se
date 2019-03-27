@@ -28,6 +28,26 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/verktyg/archimate/</loc>
+    <lastmod>2019-02-11T09:17:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/verktyg/devops/</loc>
+    <lastmod>2019-02-11T09:17:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/metoder/ide_till_produktion/</loc>
+    <lastmod>2017-02-25T13:13:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/metoder/utvecklingssprint/</loc>
+    <lastmod>2019-03-20T08:10:27+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/verktyg/handbocker/utvecklingshandbocker/webapplikation/</loc>
     <lastmod>2019-02-01T09:07:05+01:00</lastmod>
   </url>
@@ -80,11 +100,6 @@
   <url>
     <loc>http://localhost:1313/anvand-moderna-tekniklosningar/</loc>
     <lastmod>2019-01-30T14:26:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/skapa-en-organisation-fokuserad-pa-leverans/</loc>
-    <lastmod>2019-01-30T14:25:57+01:00</lastmod>
   </url>
   
   <url>
@@ -163,6 +178,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/verktyg/handbocker/inforande_digitala_tjanster/</loc>
+    <lastmod>2019-01-24T11:17:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/verktyg/handbocker/utvecklingshandbocker/</loc>
     <lastmod>2019-01-24T11:17:48+01:00</lastmod>
   </url>
@@ -184,11 +204,6 @@
   
   <url>
     <loc>http://localhost:1313/kvalitet-och-uppfoljning/matbarhet-och-feedback/</loc>
-    <lastmod>2019-01-24T11:17:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/kvalitet-och-uppfoljning/pagaende-projekt-och-initiativ/</loc>
     <lastmod>2019-01-24T11:17:48+01:00</lastmod>
   </url>
   

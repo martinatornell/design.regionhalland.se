@@ -3,13 +3,15 @@
   	<head>
   		<title>Verktyg - design.regionhalland.se</title>
 
-<meta charset="utf-8">
-<base href="http://localhost:1313">
+
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
 <link rel="canonical" href="http://localhost:1313/verktyg/">
 
 
-<link rel="stylesheet" href="http://localhost:1313/sass/main.min.587a0cf2bbafc0d645ec60ef7cd70af2f3c97426f5a6b8e6d0270d0e3dcbe74b.css">
+<link rel="stylesheet" href="http://localhost:1313/sass/main.min.7d90b0eb6becebd94fc62aee2dc36870ab9a489193805f27b3610ef3f2c1503e.css">
 
 <script src="https://unpkg.com/feather-icons"></script>
 
@@ -77,7 +79,7 @@
 		    	<img src="http://localhost:1313/images/logo.min.1a80b6228c3f551e2423b53d8c74712640431df2267cbdbe2fbd67f494d75d68.svg" alt="">
 			</a>
         </div>
-        <div class="font-thin text-2xl text-black-light ml-6 flex-grow">
+        <div class="font-thin text-2xl text-black-light ml-6 flex-grow hidden md:inline-block">
             	<a href="http://localhost:1313">Design</a>
         </div>
 		<a href="https://github.com/RegionHalland/design.regionhalland.se/pulls" class="inline-flex no-underline text-black bg-yellow px-6 items-center justify-between py-2 text-lg rounded">
@@ -134,7 +136,15 @@
 
 
 			<div class="md:flex md:flex-row-reverse justify-between items-baseline">
-				<a href="https://github.com/RegionHalland/design.regionhalland.se/tree/production/content/verktyg/_index.md" class="text-grey-darkest text-right mb-4 md:mb-0"><i data-feather='edit' class='w-4 h-4 mr-2'></i> Redigera denna sidan</a>
+				<div>
+<p>
+    <a href="https://github.com/RegionHalland/design.regionhalland.se/tree/production/content/verktyg/_index.md" target="_blank" class="text-grey-darkest text-right mb-4 md:mb-0"><i data-feather='edit' class='w-4 h-4 mr-2'></i>Redigera sida</a>
+    <small>
+        <a href="/community/redigering">(Hur gör man?)</a>
+    </small>
+</p>
+</div>
+
 				<h1 class="text-3xl md:text-4xl my-4">Verktyg</h1>
 			</div>
 			
@@ -161,24 +171,62 @@
 		<li class="w-full flex sm:w-6/12 lg:w-4/12">
 			<div class="flex-1 mb-8 mr-4">
 
-				<a href="/verktyg/stilguiden/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block underline">
-					<h2 class="mb-2 text-xl md:text-2xl">Stilguiden</h2>
+				<a href="/verktyg/archimate/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block underline">
+					<h2 class="mb-2 text-xl md:text-2xl">
+
+							ArchiMate
+					</h2>
 				</a>
 
 				<p class="leading-tight text-lg text-grey-darkest">
 				
+					Vi använder ArchiMate för att visualisera vår IT-arkitektur.
+				
+				</p>
 
-					
-					
-					
-					
+			</div>
+		</li>
 
-					
+		
 
-					
 
-					
 
+		<li class="w-full flex sm:w-6/12 lg:w-4/12">
+			<div class="flex-1 mb-8 mr-4">
+
+				<a href="/verktyg/devops/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block underline">
+					<h2 class="mb-2 text-xl md:text-2xl">
+
+							Azure DevOps
+					</h2>
+				</a>
+
+				<p class="leading-tight text-lg text-grey-darkest">
+				
+					I Azure DevOps följer vi statusen för våra digitala utvecklingsprojekt.
+				
+				</p>
+
+			</div>
+		</li>
+
+		
+
+
+
+		<li class="w-full flex sm:w-6/12 lg:w-4/12">
+			<div class="flex-1 mb-8 mr-4">
+
+				<a href="/verktyg/stilguiden/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block underline">
+					<h2 class="mb-2 text-xl md:text-2xl">
+
+							Digital stilguide
+					</h2>
+				</a>
+
+				<p class="leading-tight text-lg text-grey-darkest">
+				
+					Stilguiden är vår uppsättning med komponenter och UX-mönster för digitala gränssnitt
 				
 				</p>
 
@@ -193,7 +241,10 @@
 			<div class="flex-1 mb-8 mr-4">
 
 				<a href="/verktyg/tjanster/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block underline">
-					<h2 class="mb-2 text-xl md:text-2xl">Tjänster</h2>
+					<h2 class="mb-2 text-xl md:text-2xl">
+
+							Tjänster
+					</h2>
 				</a>
 
 				<p class="leading-tight text-lg text-grey-darkest">
@@ -206,11 +257,21 @@
 
 					
 
-						<a href="/verktyg/tjanster/e-tjansteplattform/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">E-tjänsteplattformen</a>, 
+						<a href="/verktyg/tjanster/e-tjansteplattform/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">
+
+							E-tjänsteplattformen
+
+						</a>
+						, 
 
 					
 
-						<a href="/verktyg/tjanster/vara-tjanstelager/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">Våra tjänstelager</a>
+						<a href="/verktyg/tjanster/vara-tjanstelager/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">
+
+							Våra tjänstelager
+
+						</a>
+						
 
 					
 
@@ -232,7 +293,10 @@
 			<div class="flex-1 mb-8 mr-4">
 
 				<a href="/verktyg/handbocker/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block underline">
-					<h2 class="mb-2 text-xl md:text-2xl">Handböcker</h2>
+					<h2 class="mb-2 text-xl md:text-2xl">
+
+							Handböcker
+					</h2>
 				</a>
 
 				<p class="leading-tight text-lg text-grey-darkest">
@@ -245,22 +309,37 @@
 
 					
 
-						<a href="/verktyg/handbocker/grafisk-profil/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">Grafisk profil</a>, 
+						<a href="/verktyg/handbocker/grafisk-profil/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">
+
+							Grafisk profil
+
+						</a>
+						, 
 
 					
 
-						<a href="/verktyg/handbocker/socialmediehandbok/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">Handbok sociala medier</a>, 
+						<a href="/verktyg/handbocker/socialmediehandbok/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">
+
+							Handbok sociala medier
+
+						</a>
+						, 
 
 					
 
-						<a href="/verktyg/handbocker/utvecklingshandbocker/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">Handböcker för utveckling</a>
+						<a href="/verktyg/handbocker/inforande_digitala_tjanster/" class="text-blue-dark hover:bg-yellow-light focus:bg-yellow-light inline-block">
+
+							Handböcker för införande av digitala tjänster
+
+						</a>
+						
 
 					
 
 					
 
 					
-						och <a href="/verktyg/handbocker/">1 sidor till</a>
+						och <a href="/verktyg/handbocker/">2 sidor till</a>
 					
 
 				

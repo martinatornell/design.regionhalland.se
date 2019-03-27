@@ -12,6 +12,26 @@
     
     
     <item>
+      <title>Från idé till produktion</title>
+      <link>http://localhost:1313/metoder/ide_till_produktion/</link>
+      <pubDate>Sat, 25 Feb 2017 13:13:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/metoder/ide_till_produktion/</guid>
+      <description>Översikt Vårt utvecklingsflöde för digitala tjänster baseras på följande process flöde:
+ Vi samlar in behov som är baserade på:  kundbehov strategiska mål regler och lagstiftning förändringar i affärsvillkor eller teknik  Vi hanterar alla inkommande krav och skapar koncept utifrån behoven Genom portföljhantering utvärderar vi koncepten och leder dem till utvecklingsköer Utvecklingsteam utvecklar koncepten till realiserade tjänster eller produkter enligt agila metoder. Realiserade tjänster och produkter hanteras därefter med hjälp av våra ITSM processer av RGS IT.</description>
+    </item>
+    
+    <item>
+      <title>Utvecklingssprint</title>
+      <link>http://localhost:1313/metoder/utvecklingssprint/</link>
+      <pubDate>Wed, 20 Mar 2019 08:10:27 +0100</pubDate>
+      
+      <guid>http://localhost:1313/metoder/utvecklingssprint/</guid>
+      <description>Inför Sprintplanering Kravställarna äger backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina User Stories och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive User Story. Under detta arbete kan det vara lämpligt att även bryta ner varje story i Tasks.
+Detta är något som sker fortlöpande hela tiden. Det gäller att hålla Backloggen levande och aktuell, det är kravställarens ansvar.</description>
+    </item>
+    
+    <item>
       <title>Designsprint</title>
       <link>http://localhost:1313/metoder/designsprint/</link>
       <pubDate>Thu, 31 Jan 2019 21:12:27 +0100</pubDate>
@@ -21,7 +41,7 @@
     </item>
     
     <item>
-      <title>Anvandartestning</title>
+      <title>Användartestning</title>
       <link>http://localhost:1313/metoder/anvandartestning/</link>
       <pubDate>Thu, 31 Jan 2019 21:12:07 +0100</pubDate>
       
@@ -44,11 +64,13 @@
       <pubDate>Thu, 31 Jan 2019 21:10:07 +0100</pubDate>
       
       <guid>http://localhost:1313/metoder/effektkartor/</guid>
-      <description></description>
+      <description>Syftet med effektkartor är att tydliggöra vilka effekter man vill uppnå med en satsning, ny produkt eller tjänst. Genom att koppla dess effekter till konkreta handlingar säkerställer man att verksamheten levererar faktisk nytta för både verksamhet och kund.
+Exempel på effektkarta
+Visa stor bild    Nivå 1: Varför? Vad är en effekt Effekten är det du vill uppnå i slutändan. Oftast handlar detta om konkreta mål som driver affärsnytta:</description>
     </item>
     
     <item>
-      <title>Userstories</title>
+      <title>User stories</title>
       <link>http://localhost:1313/metoder/userstories/</link>
       <pubDate>Thu, 31 Jan 2019 21:09:57 +0100</pubDate>
       

@@ -1,6 +1,4 @@
-<a href="{{ .Get "url" }}" class="inline-flex no-underline hover:underline text-black bg-blue-light px-6 items-center justify-between py-4 text-lg rounded">
-    {{if .Get "icon"}}
-        <i data-feather='{{.Get "icon"}}' class='w-4 h-4 mr-2'></i>
-    {{ end }}
-    {{ .Get "label" }}
+
+<a href="{{ .Get "url" }}" class="no-underline text-white bg-blue-dark hover:bg-yellow-light hover:underline hover:text-black px-6 py-4 text-lg rounded inline-block my-4  flex justify-between">
+    {{ .Get "label" }}{{if .Get "icon"}}<i data-feather='{{.Get "icon"}}' class='self-center w-4 h-4 ml-2'></i>{{ end }}
 </a>

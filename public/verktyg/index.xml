@@ -11,5 +11,34 @@
 	<atom:link href="http://localhost:1313/verktyg/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>ArchiMate</title>
+      <link>http://localhost:1313/verktyg/archimate/</link>
+      <pubDate>Mon, 11 Feb 2019 09:17:43 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/archimate/</guid>
+      <description>Varför Archimate? Vi använder Archimate som gemensamt notationsspråk. Att ha ett gemensamt notationsspråk ger oss följande fördelar:
+ Minska risken för missförstånd Undvika merarbete/omarbeta Sätta saker i ett sammanhang Gemensamt språk Förenkla kommunikation  Vad är Archimate?  ArchiMate är ett öppet, oberoende och internationellt standardiserat modelleringsspråk ArchiMate ger ett verktyg för att beskriva, analysera och visualisera objekt och relationer ArchiMate erbjuder ett gemensamt språk för att beskriva konstruktion och användning, från strategi och affärs- &amp;amp; verksamhetsarkitektur via data- och applikationsarkitektur till infrastrukturarkitektur.</description>
+    </item>
+    
+    <item>
+      <title>I Azure DevOps följer vi våra utvecklingsprojekt från idé till produktion</title>
+      <link>http://localhost:1313/verktyg/devops/</link>
+      <pubDate>Mon, 11 Feb 2019 09:17:43 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/devops/</guid>
+      <description>För att kunna följa arbetet med våra olika utveklingsinitivativ, lagra källkod och säkerställa gemensamma arbetsätt använder vi verktyget Azure DevOps.
+ Logga in i DevOps  Begrepp i DevOps Backlog Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg beskrivas som det kommande arbetet för ett team eller projekt. Det är i backloggen man samlar på sig och prioriterar arbetsuppgifter (workitems). På många sätt kan backloggen ses som en kravlista men med skillanden att backloggen är ett leveande dokument.</description>
+    </item>
+    
+    <item>
+      <title>Digital stilguide</title>
+      <link>http://localhost:1313/verktyg/stilguiden/</link>
+      <pubDate>Thu, 31 Jan 2019 21:03:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/stilguiden/</guid>
+      <description>Vår stilguide är en sammanställning av gemensamma byggstenar som alla våra digitala gränssnitt ska följa så långt det är möjligt. Syftet är att skapa enhetlighet för användaren så att våra tjänster och verktyg känns igen och är enkla att använda. Med hjälp av en stilguide skapar vi även möjlighet att säkerställa kvalité och ger oss förmågan att arbeta snabbt. Alla komponenter i stilguiden är användartestade, tillgänglighetsanpassade och uppdateras kontinuerligt av våra webb-team.</description>
+    </item>
+    
   </channel>
 </rss>

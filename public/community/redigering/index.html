@@ -3,13 +3,15 @@
   	<head>
   		<title>Redigera webbplatsens innehåll - design.regionhalland.se</title>
 
-<meta charset="utf-8">
-<base href="http://localhost:1313">
+
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
 <link rel="canonical" href="http://localhost:1313/community/redigering/">
 
 
-<link rel="stylesheet" href="http://localhost:1313/sass/main.min.587a0cf2bbafc0d645ec60ef7cd70af2f3c97426f5a6b8e6d0270d0e3dcbe74b.css">
+<link rel="stylesheet" href="http://localhost:1313/sass/main.min.7d90b0eb6becebd94fc62aee2dc36870ab9a489193805f27b3610ef3f2c1503e.css">
 
 <script src="https://unpkg.com/feather-icons"></script>
 
@@ -77,7 +79,7 @@
 		    	<img src="http://localhost:1313/images/logo.min.1a80b6228c3f551e2423b53d8c74712640431df2267cbdbe2fbd67f494d75d68.svg" alt="">
 			</a>
         </div>
-        <div class="font-thin text-2xl text-black-light ml-6 flex-grow">
+        <div class="font-thin text-2xl text-black-light ml-6 flex-grow hidden md:inline-block">
             	<a href="http://localhost:1313">Design</a>
         </div>
 		<a href="https://github.com/RegionHalland/design.regionhalland.se/pulls" class="inline-flex no-underline text-black bg-yellow px-6 items-center justify-between py-2 text-lg rounded">
@@ -120,11 +122,11 @@
 
     
 
-    <div class="px-4 pt-8 md:pt-16 pb-12 w-full max-w-2xl mx-auto">
+    <div class="px-4 pt-8 md:pt-16 pb-12 w-full md:max-w-2xl mx-auto">
 
         <div class="flex flex-wrap items-stretch -mx-4 justify-start">
-			<aside class="w-full md:w-3/12 px-4 mb-8 hidden md:block">
-            
+			<aside class="w-full md:w-3/12 px-4 mb-8">
+   		        
 
 
 <nav>
@@ -148,7 +150,11 @@
 			
         	<li class="border-t border-grey-lightest">
 				<a href="http://localhost:1313/community/forum-for-strategisk-utveckling/" class="block py-4 px-3 ">
-					<span class="inline-block text-black text-base no-underline hover:underline focus:underline">Forum för strategisk utveckling</span>
+					<span class="inline-block text-black text-base no-underline hover:underline focus:underline">
+					
+						Forum för strategisk utveckling
+					
+					</span>
 				</a>
 			</li>
 			
@@ -156,7 +162,11 @@
 			
         	<li class="border-t border-grey-lightest">
 				<a href="http://localhost:1313/community/hitta-ratt-team/" class="block py-4 px-3 ">
-					<span class="inline-block text-black text-base no-underline hover:underline focus:underline">Hitta rätt team</span>
+					<span class="inline-block text-black text-base no-underline hover:underline focus:underline">
+					
+						Hitta rätt team
+					
+					</span>
 				</a>
 			</li>
 			
@@ -164,7 +174,11 @@
 			
         	<li class="border-t border-grey-lightest">
 				<a href="http://localhost:1313/community/redigering/" class="block py-4 px-3  active font-bold ">
-					<span class="inline-block text-black text-base no-underline hover:underline focus:underline">Redigera webbplatsens innehåll</span>
+					<span class="inline-block text-black text-base no-underline hover:underline focus:underline">
+					
+						Redigera innehåll
+					
+					</span>
 				</a>
 			</li>
 			
@@ -175,11 +189,41 @@
 
 			</aside>
 
-	        <main class="w-full px-4 md:w-9/12 lg:w-9/12">
-                <div class="flex -mx-4">
-	            <article class="article lg:w-9/12  px-4">
-                    <h1>Redigera webbplatsens innehåll</h1>
-                    
+	        <main class="w-full px-4 md:w-6/12">
+
+                        <h1>Redigera webbplatsens innehåll</h1>
+
+
+
+                            
+								<div class="shadow border border-grey-lightest my-4 p-4 w-full md:hidden">
+                                    <article class="article">
+                                        <header>
+                                        <h2>På sidan</h2>
+                                        </header>
+                                        <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#steg-för-steg">Steg för steg</a></li>
+<li><a href="#bildhantering">Bildhantering</a>
+<ul>
+<li><a href="#lägg-till-en-bild-på-sidan">Lägg till en bild på sidan</a></li>
+<li><a href="#lägga-till-bilder-i-git">Lägga till bilder i GIT</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+                                    </article>
+  								</div>
+                            
+
+
+
+
+
+                        <article class="article numbered">
+                            
 
 <p>Alla kan bidra med innehåll till denna webbplats genom att skicka in så kallade pull requests på GitHub. Även om det låter tekniskt så är processen enkel och säker.</p>
 
@@ -198,64 +242,69 @@
 <a href="https://github.com/signup">Skapa konto</a> och logga in på GitHub.</p></li>
 
 <li><p><strong>Redigera sidan</strong> <br> När du är inloggad kan du redigera sidan genom att klicka på redigera ikonen:
-<figure>
-    <img src="/images/github/editfile.png"
-         alt="Redigera fil på GitHub"/> 
-</figure>
+
+    <figure class="shadow border border-grey-lightest my-4 w-full ">
+
+        <img src="/images/github/editfile.png"
+             alt="Redigera fil på GitHub"/> 
+    </figure>
 </p></li>
 
 <li><p><strong>Genomför dina ändringar</strong> <br> Ett tips här är att läsa på lite om Hugos s.k. <a href="https://gohugo.io/content-management/shortcodes">Shortcodes</a> som kan användas för att lägga in t.ex. video m.m. på sidan. I övrigt används <a href="https://guides.github.com/features/mastering-markdown/">Markdown</a> för att göra enkare formateringar av sidan.</p></li>
 
 <li><p><strong>Föreslå din förändring</strong> <br> När du är klar med dina ändringar så scrollar du längst ner, skriver en kommentar kring vad du ändrat och klickar sedan på &ldquo;Propose file change&rdquo;
-<figure>
-    <img src="/images/github/proposefilechange.png"
-         alt="Skicka in förslag på förändring"/> 
-</figure>
+
+    <figure class="shadow border border-grey-lightest my-4 w-full ">
+
+        <img src="/images/github/proposefilechange.png"
+             alt="Skicka in förslag på förändring"/> 
+    </figure>
 </p></li>
 
-<li><p><strong>Skapa din pull request</strong> <br> När du har redigerat alla de sidor du vill och känner dig färdig så kan du sammanställa och skicka in din pull request genom att klicka på &ldquo;Create pull request&rdquo;
-<figure>
-    <img src="/images/github/createpullrequest.png"
-         alt="Skapa pull request"/> 
-</figure>
+<li><p><strong>Skapa din pull request</strong> <br> När du har redigerat alla de sidor du vill och känner dig färdig så kan du sammanställa och skicka in din pull request genom att klicka på &ldquo;Create pull request&rdquo;. Läs mer här om vad en <a href="https://help.github.com/articles/using-pull-requests">Pull Request</a> är för något
+
+    <figure class="shadow border border-grey-lightest my-4 w-full ">
+
+        <img src="/images/github/createpullrequest.png"
+             alt="Skapa pull request"/> 
+    </figure>
 </p></li>
 
 <li><p><strong>Skicka in pull request</strong> <br> Ta en minut och granska dina ändringar och klicka sedan på &ldquo;Create pull request&rdquo; en sista gång.
-<figure>
-    <img src="/images/github/sendpullrequest.png"
-         alt="Skapa pull request"/> 
-</figure>
+
+    <figure class="shadow border border-grey-lightest my-4 w-full ">
+
+        <img src="/images/github/sendpullrequest.png"
+             alt="Skapa pull request"/> 
+    </figure>
 </p></li>
 
 <li><p><strong>Klart!</strong> <br> Du är nu färdig med dina ändringar. Bra jobbat! Nu kommer sidans administratörer att titta på din pull request och antingen godkänna eller avvisa den. Vid ett godkännande går dina ändringar ut live på sajten, vid ett avvisande kommer du få ett meddelande med en förklaring till varför.</p></li>
 </ol>
 
-	            </article>
+<h2 id="bildhantering">Bildhantering</h2>
 
+<p>Vill du använda dig av bilder på en sida så sker det i två steg, först behöver du ladda upp din bild, sen lägger du in den på din sida med hjälp av en shortcode.</p>
 
-                    <aside class="lg:w-3/12  px-4">
+<h3 id="lägg-till-en-bild-på-sidan">Lägg till en bild på sidan</h3>
 
+<ol>
+<li>Alla bilder som ligger i <a href="https://github.com/RegionHalland/design.regionhalland.se/tree/production/static/images"><code>/static/images</code></a> går att nyttja på webbplatsen och läggs till på en sida med hjälp av följande shortcode:</li>
+</ol>
 
-                        
-                            <div class="mb-8">
-                                <header>
-                                <h2>På sidan</h2>
-                                </header>
-                                <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#steg-för-steg">Steg för steg</a></li>
-</ul></li>
-</ul>
-</nav>
-                            </div>
-                        
-                        <a href="https://github.com/RegionHalland/design.regionhalland.se/tree/production/content/Community/redigering.md" class="text-grey-darkest text-right mb-4 md:mb-0"><i data-feather='edit' class='w-4 h-4 mr-2'></i> Redigera denna sidan</a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go">    &lt;<span style="color:#a6e22e">figure</span> <span style="color:#a6e22e">class</span>=<span style="color:#e6db74">&#34;shadow border border-grey-lightest my-4 w-full &#34;</span>&gt;
 
-                    </aside>
+        &lt;<span style="color:#a6e22e">img</span> <span style="color:#a6e22e">src</span>=<span style="color:#e6db74">&#34;/images/sokv%c3%a4g/till/dinfil.png&#34;</span>
+             <span style="color:#a6e22e">alt</span>=<span style="color:#e6db74">&#34;Beskrivande text om bildens innehåll&#34;</span><span style="color:#f92672">/</span>&gt; &lt;<span style="color:#a6e22e">figcaption</span> <span style="color:#a6e22e">class</span>=<span style="color:#e6db74">&#34;bg-grey-lightest p-4 py-2 m-0 flex items-baseline justify-between&#34;</span>&gt;
+                &lt;<span style="color:#a6e22e">p</span>&gt;<span style="color:#a6e22e">Bildtexten</span> <span style="color:#a6e22e">till</span> <span style="color:#a6e22e">din</span> <span style="color:#a6e22e">fil</span>&lt;<span style="color:#f92672">/</span><span style="color:#a6e22e">p</span>&gt;
+            &lt;<span style="color:#f92672">/</span><span style="color:#a6e22e">figcaption</span>&gt;
+    &lt;<span style="color:#f92672">/</span><span style="color:#a6e22e">figure</span>&gt;</code></pre></div>
 
-                </div>
+<h3 id="lägga-till-bilder-i-git">Lägga till bilder i GIT</h3>
+
+<p>Än så länge är det lite krångligt att addera bilder till sajten. Tyvärr måste man kunna hantera git och ta hem reposet lokalt för att lägga sina bilder i den mapp som heter <code>/static/images</code> och merga in detta i ´production´ branchen. Detta är ju så klart på tok för nördigt men går alldeles utmärkt att göra för den vågade. Vill man inte detta så kan man istället be <a href="mailto:joel.sanden@regionhalland.se">Joel Sandén</a> om hjälp med att ladda upp bilder.</p>
+
+                        </article>
 
 
                     <div class="p-4 my-8 w-full max-w-2xl mx-auto bg-grey-lightest rounded">
@@ -280,6 +329,42 @@
 
 
 	        </main>
+
+            <aside class="w-full hidden md:block lg:w-3/12 px-4">
+                <div>
+<p>
+    <a href="https://github.com/RegionHalland/design.regionhalland.se/tree/production/content/community/redigering.md" target="_blank" class="text-grey-darkest text-right mb-4 md:mb-0"><i data-feather='edit' class='w-4 h-4 mr-2'></i>Redigera sida</a>
+    <small>
+        <a href="/community/redigering">(Hur gör man?)</a>
+    </small>
+</p>
+</div>
+
+
+                
+                    <div class="my-8">
+                        <header>
+                        <h2>På sidan</h2>
+                        </header>
+                        <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#steg-för-steg">Steg för steg</a></li>
+<li><a href="#bildhantering">Bildhantering</a>
+<ul>
+<li><a href="#lägg-till-en-bild-på-sidan">Lägg till en bild på sidan</a></li>
+<li><a href="#lägga-till-bilder-i-git">Lägga till bilder i GIT</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+                    </div>
+                
+
+
+
+            </aside>
 
 
 

@@ -26,7 +26,8 @@
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
       
       <guid>http://localhost:1313/kvalitet-och-uppfoljning/informationssakerhet/</guid>
-      <description></description>
+      <description>Informationssäkerhet innebär att säkra att information, i alla dess former, finns tillgänglig när den behövs, att den är korrekt, att obehöriga inte kan få tillgång till den och att det går att spåra hur informationen har hanterats.
+Läs mer om informationssäkerhet på intranätet eller kontakta oss direkt.</description>
     </item>
     
     <item>
@@ -35,15 +36,6 @@
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
       
       <guid>http://localhost:1313/kvalitet-och-uppfoljning/matbarhet-och-feedback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pågående projekt och initiativ</title>
-      <link>http://localhost:1313/kvalitet-och-uppfoljning/pagaende-projekt-och-initiativ/</link>
-      <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
-      
-      <guid>http://localhost:1313/kvalitet-och-uppfoljning/pagaende-projekt-och-initiativ/</guid>
       <description></description>
     </item>
     
@@ -71,7 +63,7 @@
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
       
       <guid>http://localhost:1313/kvalitet-och-uppfoljning/vara-digitala-kanaler/</guid>
-      <description>Lista samtliga webbplatser, appar osv. med tillhörande; - syfte - mål - kontaktuppgifter - ev. lista ansvariga - ev. länkar till forum, teams, devops osv. - ev. länkar till tillgänglighetsredogörelser - ev. länkar till prestandatester - ev. länkar till rapporter</description>
+      <description>Lista samtliga webbplatser, appar osv. med tillhörande; - syfte - mål - kontaktuppgifter - ev. lista ansvariga - ev. länkar till forum, teams, DevOps osv. - ev. länkar till tillgänglighetsredogörelser - ev. länkar till prestandatester - ev. länkar till rapporter</description>
     </item>
     
   </channel>
