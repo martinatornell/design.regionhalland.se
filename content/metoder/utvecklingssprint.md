@@ -1,6 +1,6 @@
 ---
-title: "Utvecklingsprint"
-linktitle: "Utvecklingsprint"
+title: "Utvecklingssprint"
+linktitle: "Utvecklingssprint"
 date: 2019-03-20T08:10:27+01:00
 draft: false
 description: "Hur vi arbetar med utvecklingssprintar"
