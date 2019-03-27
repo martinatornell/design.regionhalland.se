@@ -6,6 +6,13 @@ description: "Riktlinjer för ordnat införande av egenutvecklade eller externt 
 weight: 0
 ---
 
+{{% box header="ARBETE PÅGÅR!" %}}
+
+Denna sida är just nu under arbete och kommer att uppdateras/ändras. Har du synpunkter på innehållet så använd gärna feedback formuläret längst ner på sidan.
+
+{{% /box %}}
+
+
 ## Ordnat införande av digitala tjänster
 
 ### Checklista
