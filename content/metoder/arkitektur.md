@@ -16,3 +16,7 @@ För att länka samman olika komponenter vill vi att detta sker genom datakoppli
 
 Genom att försöka hålla samman all hantering kring en viss informationsmängd i en enskild komponent säkerställer vi att vi uppnår så hög sammanhållning som möjligt. Exempel på detta kan vara att ekonomidata hanteras i ett ekonomisystem, journaldata i ett journalsystem, osv. Motsatsen inträffar när en viss informationsmängd hanteras i ett flertal olika system. 
 
+
+### API-first
+Region Hallands grundfilosofi är API-first, vilket innebär att vi alltid tänker oss att bygga lösningar baserade på API-er snarare än klassiska client-server-lösningar. Vi förespråkar pragmatisk API design, vilket innebär att vi utgår ifrån vad det är vi försöker uppnå med vårt API och se det ur en utvecklares perspektiv och att denne ska bli så framgångsrik som möjligt i användandet av API-et. Enkelhet är den viktigaste principen i skapande av API-er. 
+
