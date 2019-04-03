@@ -4,6 +4,18 @@ title: "Från idé till produktion"
 description: Vårt utvecklingsflöde för digitala tjänster
 weight: 1000
 ---
+## Drivkrafter
+- Kontinuerlig förändring med nya digitala tekniker driver kräver ett förändrat arbetssätt. 
+- Den övergripande utvecklingen måste organiseras kring att skapa och leverera mervärde till kunden. 
+- Vi måste vara effektivare och kunna tillhandahålla nya digitala tjänster. 
+- Kundresan måste vara den viktigaste drivkraften för oss i denna digitala era. 
+- Nya tjänster måste utformas efter kundbehov.
+- Hastigheten och volymen av nya tjänster kommer att öka, därför behöver vi förändra vårt sätt att arbeta med digitala förändringar.
+
+För att kunna möta upp gentemot dessa drivkrafter ser vi att behöver anamma arbetssätt som bygger på Lean & agila metoder. Detta tillsammans med en pragmatisk arkitektur kommer att ge oss en helhetsorienterad och pragmatisk övergripande metod som bygger på en värdeskapande strategi. Idé till Produktion är inriktat på att skapa och leverera kundvärde. Alla relevanta funktioner är integrerade i värdeflödet. Modellen är organiserad kring idé till produktionsprocessen, som ger enkel tratt för alla kund- och affärsdrivna krav. Den övergripande utvecklingen är baserad på Lean och agila principer som samarbete och synlighet.
+
+Vi ser att vi måste förändra oss för att kunna reagera på snabba förändringar i vår omgivning.  Vi ser att kundupplevelse måste styra hur nya tjänster ska utformas. En kundresa kan omfatta flera tjänster i flera affärsenheter, eller det kan gå över organisatoriska gränser när det gäller tjänsterna i vårt digitala ekosystem.  Den övergripande tankegången måste anpassas till kundorientering och samarbete. Nya kund- och affärsdrivna krav kan variera mycket, och kommer att komma snabbare än någonsin tidigare. För att möjliggöra snabb svarande och kontinuerlig utvecklingsmodell måste vi byta från projektbaserad modell till produkt- och tjänstedrivna utvecklingsmetoder. Detta paradigmskifte från projekt till produkter och tjänster är måste: Projekt är tidsbegränsade strukturer som är begränsade i deras tillämplighet på kontinuerlig förändring, medan produkt- och tjänstedriven utveckling möjliggör kontinuerlig design, utveckling och drift under tjänstens/produktens livscykel.Genom att anta en tjänstedriven strategi kan vi förutse, reagera och producera nya produkter och tjänster snabbare, bättre och billigare till våra kunder.
+
 ## Översikt
 Vårt utvecklingsflöde för digitala tjänster baseras på följande process flöde:
 
