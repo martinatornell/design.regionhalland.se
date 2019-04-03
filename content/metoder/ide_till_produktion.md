@@ -102,6 +102,23 @@ Här säkerställer vi att nya tjänster och produkter kan omhändertas i förva
 	- Säkerställ att prioriterade utvecklingsinitiativ rör sig framåt
 
 ## Produktionssättningsstadiet
-TBD
+I produktionssättningsstadiet Införlivar vi nya/förändrade tjänster och produkter i vår förvaltning.
+{{<figure src="/images/metoder/ide_till_produktion_prod.png" link="/images/metoder/ide_till_produktion_prod.png" title="Idé till Produktion - Produktionssättning">}}
+
+### Hantering av Tjänstekatalog
+Nyutvecklade/förändrade tjänster behöver komma in i våra Tjänstekataloger
+
+### Objektförvaltning
+Införda Tjänster och Produkter behöver komma in i vår systemförvaltning.
+
+#### IT-Drift
+Införda Tjänster och Produkter behöver komma in i vår driftmiljö.
+
+### ITIL-processer
+Vi nyttjar våra ITIL-processer för att säkerställa produktionssättningen. De processer vi nyttjar är:
+- Change Management
+- Release Management
+- Incident Management
+- Problem Management
 
 
