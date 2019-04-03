@@ -78,7 +78,28 @@ I konceptstadiet skapar vi en fördjupad förståelse för idén och dess effekt
 	- Se till att Epics & Features är rätt definerade
 
 ## Utvecklingsstadiet
-TBD
+I konceptstadiet realiserar vi de tjänster och produkter som behövs för att möta behovet. Detta kan ske genom inköp eller utveckling. Se bilden nedan för vad vi gör i detta steg.
+{{<figure src="/images/metoder/ide_till_produktion_utveckling.png" link="/images/metoder/ide_till_produktion_utveckling.png" title="Idé till Produktion - Utvecklingsstadiet">}}
+
+### Genomför Standardutveckling
+Utveckling och förändring av tjänster och produkter enligt våra standarder.
+
+### Genomför Experimentell Utveckling
+Utveckling av nya tjänster med nya metoder och tekniker.
+
+### Genomför Projekt
+Genomför Projekt enligt Region Hallands projektmodell.
+
+### Genomför Upphandling
+Genomför inköp av tjänster och produkter enling våra gängse rutiner för detta.
+
+### Förbered för Produktionssättning
+Här säkerställer vi att nya tjänster och produkter kan omhändertas i förvaltning. Vidare så påbörjar vi även beställningar av infrastruktur m.m. i form av RFC:er. Vi säkerställer även delar kring utbildningsbehov och införandeplaner.
+
+### Managering av Utvecklingsinitiativ
+- Produktägararbete, bl.a.:
+	- Prioritera mellan utvecklingsinitiativ
+	- Säkerställ att prioriterade utvecklingsinitiativ rör sig framåt
 
 ## Produktionssättningsstadiet
 TBD
