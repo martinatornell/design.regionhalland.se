@@ -117,9 +117,11 @@ Införda Tjänster och Produkter behöver komma in i vår driftmiljö.
 ### ITIL-processer
 Vi nyttjar våra ITIL-processer för att säkerställa produktionssättningen. De processer vi nyttjar är:
 
-- Change Management
-- Release Management
-- Incident Management
-- Problem Management
+  - Change Management
+  - Release Management
+  - Incident Management
+  - Problem Management
+  
+ 
 
 
