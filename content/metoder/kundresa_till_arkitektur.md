@@ -50,7 +50,7 @@ och en av delprocesserna skulle kunna se ut som nedan:
 Slutligen skapar vi en första arkitekturskiss som visar vilka tjänster vi behöver sätta på plats under utvecklingsarbetet.
 
 1. Utgå från Kundresan
-2. Skapa ett [ArchiMate](../verktyg/archimate.md) diagram utifrån delprocesserna som skapades i steg 2. Enligt vår metamodell använder vi Applikationstjänster för att stötta våra Processer, så det är dessa två element vi fokuserar på att få in i skissen i detta skede.
+2. Skapa ett [ArchiMate](https://design.regionhalland.se/verktyg/archimate/) diagram utifrån delprocesserna som skapades i steg 2. Enligt vår metamodell använder vi Applikationstjänster för att stötta våra Processer, så det är dessa två element vi fokuserar på att få in i skissen i detta skede.
 3. Notera att flödet i Arkitekturskissken inte behöver vara lika exakt som i Processkartan. Det viktiga är att få med aktiviteterna och en ungefärlig ordning här. Likaså behöver vi här inte få in roller & aktörer då de finns i Processkartan.
 
 Den första arkitekturskissen kan då se ut som nedan:
