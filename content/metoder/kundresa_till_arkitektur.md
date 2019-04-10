@@ -17,7 +17,7 @@ Arkitekturskissen visar utöver det som beskrivs i processen också vilka tjäns
 Dessa tre vyer av Kundresan ger oss grundläggande förutsättningar för att kunna arbeta vidare med för att kunna realisera denna.
 
 Den kundresa som vi utgått i från i detta exempel är Anställningsprocessen, se nedan.
-{{<figure src="https://www.figma.com/proto/N4WX0YHbF5TLa7f5CD389sOV/Anst%C3%A4llningsprocessen?node-id=4%3A46&viewport=211%2C440%2C0.105253&scaling=min-zoom&redirected=1" link="https://www.figma.com/proto/N4WX0YHbF5TLa7f5CD389sOV/Anst%C3%A4llningsprocessen?node-id=4%3A46&viewport=211%2C440%2C0.105253&scaling=min-zoom&redirected=1" title="Från kundresa till arkitektur - Värdekedja exempel">}}
+
 
 
 ## Steg 1 - Skapa en Värdekedja
