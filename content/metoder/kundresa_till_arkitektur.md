@@ -21,7 +21,8 @@ Den kundresa som vi utgått i från i detta exempel är Anställningsprocessen, 
 
 
 ## Steg 1 - Skapa en Värdekedja
-Det först vi gör är att skapa en värdekedja utifrån kundresan. Detta sker med hjälp av följande aktiviteter:
+Det första vi gör är att skapa en värdekedja utifrån kundresan. Detta sker med hjälp av följande aktiviteter:
+
 1. Utgå från Kundresan
 2. Skapa en Värdekedja utifrån Kundresan
 3. Mappa Förmågor utifrån Kundresan till Värdekedjan. Finns inga lämpliga förmågor behövs dessa skapas. Syftet med detta steg är att skapa en strategisk översikt.  
@@ -33,6 +34,7 @@ Den färdiga Värekedjan kan då se ut som denna:
 
 ## Steg 2 - Skapa en Process
 Nästa steg är att skapa processer och delprocesser, detta sker enligt följande:
+
 1. Utgå från Kundresan
 2. Skapa en huvudprocess i BPMN utifrån Kundresan.
 3. Skapa delprocesser för de aktviteter som behövs förtydligas.
@@ -46,6 +48,7 @@ och en av delprocesserna skulle kunna se ut som nedan:
 
 ## Steg 3 - Skapa en Arkitekturskiss
 Slutligen skapar vi en första arkitekturskiss som visar vilka tjänster vi behöver sätta på plats under utvecklingsarbetet.
+
 1. Utgå från Kundresan
 2. Skapa ett Archimate diagram utifrån delprocesserna som skapades i steg 2. Enligt vår metamodell använder vi Applikationstjänster för att stötta våra Processer, så det är dessa två element vi fokuserar på att få in i skissen i detta skede.
 3. Notera att flödet i Arkitekturskissken inte behöver vara lika exakt som i Processkartan. Det viktiga är att få med aktiviteterna och en ungefärlig ordning här. Likaså behöver vi här inte få in roller & aktörer då de finns i Processkartan.
