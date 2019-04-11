@@ -18,7 +18,7 @@ Dessa tre vyer av Kundresan ger oss grundläggande förutsättningar för att ku
 
 Den kundresa som vi utgått i från i detta exempel är Anställningsprocessen, se nedan.
 
-<iframe style="border: none;" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FN4WX0YHbF5TLa7f5CD389sOV%2FAnst%25C3%25A4llningsprocessen%3Fnode-id%3D0%253A1%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: none;" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FN4WX0YHbF5TLa7f5CD389sOV%2FAnst%25C3%25A4llningsprocessen%3Fnode-id%3D0%253A1%26scaling%3Dcontain" allowfullscreen></iframe>
 
 
 ## Steg 1 - Skapa en Värdekedja
