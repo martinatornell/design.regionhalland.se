@@ -20,7 +20,9 @@ Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg b
 I DevOps finns ett antal olika workitems, de vi primärt använder beskrivs nedan. Ett workitem är helt enkelt en beskrivning över vad som behöver göras.
 
 ##### Epics
-En Epic är den största abstraktionen vi har av ett projekt eller satsning. Vi använder epics för att på helikopternivå kunna följa våra olika projekt och se att vår gemensamma portfölj ligger i synk. Ett projekt kan bestå av ett flertal Epics och bör alltid vara uppdelade så att arbetet kan göras klart inom ca. ett kvartal. Vanligvis skrivs och hanteras Epics av Objektägaren tillsammans med Digitaliseringsenheten. Vi använder Epics enbart på portföljninvån och inte på team nivå.
+En Epic är den största abstraktionen vi har av en förmåga som vi vill realisera. När vi skriver en ny Epic bör vi sträva efter att låta namnet och omfånget återspegla det behov man ämnar lösa. Exempel på bra Epics kan vara "Ankomstregistrering", "Digitala videomöten", "Gemensam tidbok". En satsning kan bestå av ett flertal Epics och kan då länkas samman med en eller flera taggar och/eller länkning i DevOps. 
+
+Vi använder Epics för att på helikopternivå kunna följa våra olika satsningar och se att vår gemensamma portfölj ligger i synk. Det är därför viktigt att varje Epic som hamnar i den gemensamma portföljen har passerat igenom processen [Från idé till produktion](/metoder/ide_till_produktion/) där vi analyserar behovet av förmågan i fråga. Vanligvis skrivs och hanteras Epics av Objektägaren tillsammans med Digitaliseringsenheten.
 
 ##### Features
 En Epic består av flera features. En feature är en övergripande förmåga som en tjänst ska leverera. Exempel på features kan vara "Inloggning", "Att kunna söka i styrda dokument" eller "Listning av klienter". En Feature består i sin tur av flera Stories. Vanligtvis skrivs både features och stories av Objektledaren. En bra måttstock är att en feature kan levereras inom 1-2 sprintar. Är featuren större än så bör den delas upp i flera features.
