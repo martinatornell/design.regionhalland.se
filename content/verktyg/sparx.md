@@ -12,6 +12,6 @@ Sparx kan vara lite kinkig när det gäller att tillåta vissa relationer mellan
 
 För att möjliggöra detta gör på följande sätt:
 
-1. Gå in under "Start"->"Preferences"->"Links" 
-2. Klicka ur "Strict Connector Syntax" 
-3. Nu bör du kunna dra en "Realization" direkt från en "Application Component" till en "Application Service".
+  1. Gå in under "Start"->"Preferences"->"Links" 
+  2. Klicka ur "Strict Connector Syntax" 
+  3. Nu bör du kunna dra en "Realization" direkt från en "Application Component" till en "Application Service".
