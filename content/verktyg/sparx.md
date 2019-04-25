@@ -7,8 +7,9 @@ description: "Vi använder Sparx som verktyg för att visualisera vår IT-arkite
 weight: 1000
 ---
 ## Tips & tricks
-### 
+### Slå av Strict Connector Syntax
 Sparx kan vara lite kinkig när det gäller att tillåta vissa relationer mellan komponenter. T.ex. så kan man i standard inställningen inte skapa en "Realization" relation mellan en "Application Component" och en "Application Service" för ArchiMate diagram.
+
 För att möjliggöra detta gör på följande sätt:
 1. Gå in under "Start"->"Preferences"->"Links" 
 2. Klicka ur "Strict Connector Syntax" 
