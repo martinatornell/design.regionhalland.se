@@ -61,14 +61,13 @@ I tabellen nedan visar vi vilka ArchiMate symboler vi använder för att illustr
 
 | Komponent          | ArchiMate Symbol | Användning i Vyer |
 | ------------------ | ---------------- | -------------- |
-| Verksamhetsförmåga |![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra.") | Verksamhetsförmågor<br/>Värdekedjor | 
+| Verksamhetsförmåga |![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra.") | Verksamhetsförmågor, Värdekedjor | 
 | Aktör |![Person eller grupp](/images/metoder/icon_aktor.png "En Aktör, kan vara en enskild person eller en grupp.") | Organisationsvyer  | 
 | Värdekedja |![Värdekedja](/images/metoder/icon_vardekedja.png "Ett steg i en Värdekedja.") | Värdekedjor  | 
 | IT-stödtjänst |![IT-stödtjänst](/images/metoder/icon_itstodtjanst.png "En IT-stödtjänst.") | Grunduppdrag  | 
 
 
 
-#### Grunduppdrag
 
 ### Visualisering av Tjänstevyer
 
