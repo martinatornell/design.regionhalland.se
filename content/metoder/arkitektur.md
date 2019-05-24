@@ -59,16 +59,14 @@ För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbygg
 ### Visualisering av Strategiska vyer
 I tabellen nedan visar vi vilka ArchiMate symboler vi använder för att illustrera olika typer av komponenter för de olika vyer vi använder oss av.
 
-#### Verksamhetsförmågor
-För att illustrera en verksamhetsföråga använder vi ArchiMate symbolen *Capability*.
-
 | Komponent          | ArchiMate Symbol | Användning i Vyer |
 | ------------------ | ---------------- | -------------- |
-| Verksamhetsförmåga |![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra.") | Verksamhetsförmågor | 
+| Verksamhetsförmåga |![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra.") | Verksamhetsförmågor<br/>Värdekedjor | 
 | Aktör |![Person eller grupp](/images/metoder/icon_aktor.png "En Aktör, kan vara en enskild person eller en grupp.") | Organisationsvyer  | 
+| Värdekedja |![Värdekedja](/images/metoder/icon_vardekedja.png "Ett steg i en Värdekedja.") | Värdekedjor  | 
+| IT-stödtjänst |![IT-stödtjänst](/images/metoder/icon_itstodtjanst.png "En IT-stödtjänst.") | Grunduppdrag  | 
 
 
-#### Värdekedjor
 
 #### Grunduppdrag
 
