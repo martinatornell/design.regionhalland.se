@@ -58,6 +58,14 @@ För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbygg
 
 ### Visualisering av Strategiska vyer
 
+#### Verksamhetsförmågor
+För att illustrera en verksamhetsföråga använder vi ArchiMate symbolen *Capability*.
+
+| Symbol                  | ArchiMate Symbol | Beskrivning |
+| ----------------------- | ---------------- | ----------- |
+| Verksamhetsförmåga      |![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "Verksamhetsförmåga") | En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra. | 
+
+
 ### Visualisering av Verksamhetsvyer
 
 ### Visualisering av Tjänstevyer
