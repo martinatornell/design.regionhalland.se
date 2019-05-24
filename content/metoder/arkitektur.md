@@ -57,20 +57,13 @@ För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbygg
 - TBD
 
 ### Visualisering av Strategiska vyer
-I tabellen nedan visar vi vilka ArchiMate symboler vi använder för att illustrera olika typer av komponenter för de olika vyer vi använder oss av.
+I tabellen nedan visar vi vilka ArchiMate symboler vi använder för att illustrera olika typer av komponenter för de olika vyer vi använder oss av. För att få en beskrivning av respektive komponent, håll pekaren över symbolen.
 
 | Komponent          | ArchiMate Symbol | Användning i Vyer |
 | ------------------ | ---------------- | -------------- |
-| Verksamhetsförmåga |![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra.") | Verksamhetsförmågor, Värdekedjor | 
-| Aktör |![Person eller grupp](/images/metoder/icon_aktor.png "En Aktör, kan vara en enskild person eller en grupp.") | Organisationsvyer  | 
-| Värdekedja |![Värdekedja](/images/metoder/icon_vardekedja.png "Ett steg i en Värdekedja.") | Värdekedjor  | 
-| IT-stödtjänst |![IT-stödtjänst](/images/metoder/icon_itstodtjanst.png "En IT-stödtjänst.") | Grunduppdrag  | 
+| Verksamhetsförmåga |![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra. Vi använder ArchiMate symbolen Capability för att illustrera en Verksamhetsförmåga.") | Verksamhetsförmågor, Värdekedjor | 
+| Aktör |![Person eller grupp](/images/metoder/icon_aktor.png "En Aktör, kan vara en enskild person eller en grupp. Vi använder ArchiMate symbolen Actor för att illustrera en aktör.") | Organisationsvyer  | 
+| Värdekedja |![Värdekedja](/images/metoder/icon_vardekedja.png "Ett steg i en Värdekedja. Då det (ännu) inte finns någon symbol i ArchiMate för detta så använder vi en allmän symbol för värdekedjor här. Det finns dock förslag om att ta in denna symbol i ArchiMate.") | Värdekedjor  | 
+| IT-stödtjänst |![IT-stödtjänst](/images/metoder/icon_itstodtjanst.png "En IT-stödtjänst. Här använder vi ArchiMate symbolen Application Service.") | Grunduppdrag, Tjänsteportföljer, Tjänsteuppbyggnadsbeskrivningar   | 
+| Applikation |![Applikation](/images/metoder/icon_applikation.png "En Applikation som används inom Region Halland. Här använder vi ArchiMate symbolen Application.") | Applikationslandskap, Tjänsteuppbyggnadsbeskrivningar  | 
 
-
-
-
-### Visualisering av Tjänstevyer
-
-### Visualisering av Applikationsvyer
-
-### Visualisering av Infrastruktursvyer
