@@ -31,7 +31,8 @@ För att visualisera vår arkitektur använder vi [ArchiMate](https://design.reg
 För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbyggda av en eller flera komponenter. Vi använder ett antal standardiserade vyer för att få en samanhållen bild av vår arkitektur. De vyer vi använder oss av är följande:
 
 **Strategiska vyer**
-  - *Verksamhetsförmågor* - Visar de Verksamhetsförmågor som Region Halland kan leverera. En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra, men inte var, hur eller av vem den utförs.
+
+- *Verksamhetsförmågor* - Visar de Verksamhetsförmågor som Region Halland kan leverera. En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra, men inte var, hur eller av vem den utförs.
 
 **Verksamhetsvyer**
 
@@ -41,15 +42,18 @@ För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbygg
   - *Grunduppdrag* - Visar vad grunduppdraget är för våra olika grupperingar inom vår IT-organisation. Bygger på modellen Business Model Canvas (BMC)
 
 **Tjänstevyer**
+
 - *Tjänsteportföljer* - Visar vilka tjänster Region Halland tillhandahåller på olika nivåer.
 - *Tjänsteuppbyggnadsbeskrivningar* - Visar hur våra olika tjänster är uppbyggda.
 
 **Applikationsvyer**
+
 - *Applikationslandskap* - Beskriver vilka applikation respektive systemförvaltningsobjekt ansvarar för och vilka applikationer vi har i vår applikationsportfölj.
 - *Integrationskartor* - Visar dels övergripande Integrationskartor, dels Integrationsbeskrivningar mellan olika system.
 - *Informationsmodeller* - Visar vilka Informationsmängder vi har samt hur dessa hänger ihop.
 
 **Infrastruktursvyer**
+
 - TBD
 
 ### Visualisering av Strategiska vyer
