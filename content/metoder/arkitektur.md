@@ -4,6 +4,8 @@ title: "Arkitektur"
 description: Hur vi arbetar med arkitektur inom Region Halland
 weight: 1000
 ---
+## Introduktion
+
 ## Principer
 Våra grundläggande arkitekturprinciper
 
@@ -20,3 +22,41 @@ Genom att försöka hålla samman all hantering kring en viss informationsmängd
 ### API-first
 Region Hallands grundfilosofi är API-first, vilket innebär att vi alltid tänker oss att bygga lösningar baserade på API-er snarare än klassiska client-server-lösningar. Vi förespråkar pragmatisk API design, vilket innebär att vi utgår ifrån vad det är vi försöker uppnå med vårt API och se det ur en utvecklares perspektiv och att denne ska bli så framgångsrik som möjligt i användandet av API-et. Enkelhet är den viktigaste principen i skapande av API-er. 
 
+
+## Visualisering av Arkitektur
+
+### Översikt
+För att visualisera vår arkitektur använder vi [ArchiMate](https://design.regionhalland.se/verktyg/archimate/) som notationsspråk. Det verktyg som vi använder inom Region Halland är [Sparx](https://design.regionhalland.se/verktyg/sparx/).
+
+För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbyggda av en eller flera komponenter. Vi använder ett antal standardiserade vyer för att få en samanhållen bild av vår arkitektur. De vyer vi använder oss av är följande:
+
+**Strategiska vyer**
+* *Verksamhetsförmågor* - Visar de Verksamhetsförmågor som Region Halland kan leverera. En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra, men inte var, hur eller av vem den utförs.
+
+**Verksamhetsvyer**
+* *Organisationsvyer* - Visar vem som innehar en viss roll i vår IT-styrning, Systemförvaltning & Tjänsteleverans.
+* *Värdekedjor* - Beskriver hur Region Hallands kundresor är uppbyggda med hjälp av Verksamhetsförmågor.
+* *Processkartor* - Processkartorna är ett taktiskt verktyg som möjliggör för oss att enklare kunna kommunicera kring hur kundresan skall kunna realiseras i våra verksamheter.
+* *Grunduppdrag* - Visar vad grunduppdraget är för våra olika grupperingar inom vår IT-organisation. Bygger på modellen Business Model Canvas (BMC)
+
+**Tjänstevyer**
+* *Tjänsteportföljer* - Visar vilka tjänster Region Halland tillhandahåller på olika nivåer.
+* *Tjänsteuppbyggnadsbeskrivningar* - Visar hur våra olika tjänster är uppbyggda.
+
+**Applikationsvyer**
+* *Applikationslandskap* - Beskriver vilka applikation respektive systemförvaltningsobjekt ansvarar för och vilka applikationer vi har i vår applikationsportfölj.
+* *Integrationskartor* - Visar dels övergripande Integrationskartor, dels Integrationsbeskrivningar mellan olika system.
+* *Informationsmodeller* - Visar vilka Informationsmängder vi har samt hur dessa hänger ihop.
+
+**Infrastruktursvyer**
+* TBD
+
+### Visualisering av Strategiska vyer
+
+### Visualisering av Verksamhetsvyer
+
+### Visualisering av Tjänstevyer
+
+### Visualisering av Applikationsvyer
+
+### Visualisering av Infrastruktursvyer
