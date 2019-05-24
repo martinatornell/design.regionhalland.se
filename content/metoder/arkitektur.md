@@ -26,7 +26,7 @@ Region Hallands grundfilosofi är API-first, vilket innebär att vi alltid tänk
 ## Visualisering av Arkitektur
 
 ### Översikt
-För att visualisera vår arkitektur använder vi [ArchiMate](https://design.regionhalland.se/verktyg/archimate/) som notationsspråk. Det verktyg som vi använder inom Region Halland är [Sparx](https://design.regionhalland.se/verktyg/sparx/).
+För att visualisera vår arkitektur använder vi [ArchiMate](https://design.regionhalland.se/verktyg/archimate/) som notationsspråk. I vissa fall räcker inte ArchiMate till för att detaljera vissa vyer, t.ex. för processer och informationsmodeller. I dessa fall använder vi BPMN (för processer) och UML (for informationsmodeller). Det verktyg som vi använder inom Region Halland för att dokumentera arkitektur är [Sparx](https://design.regionhalland.se/verktyg/sparx/).
 
 För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbyggda av en eller flera komponenter. Vi använder ett antal standardiserade vyer för att få en samanhållen bild av vår arkitektur. De vyer vi använder oss av är följande:
 
