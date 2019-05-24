@@ -31,13 +31,14 @@ För att visualisera vår arkitektur använder vi [ArchiMate](https://design.reg
 För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbyggda av en eller flera komponenter. Vi använder ett antal standardiserade vyer för att få en samanhållen bild av vår arkitektur. De vyer vi använder oss av är följande:
 
 **Strategiska vyer**
-- *Verksamhetsförmågor* - Visar de Verksamhetsförmågor som Region Halland kan leverera. En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra, men inte var, hur eller av vem den utförs.
+  - *Verksamhetsförmågor* - Visar de Verksamhetsförmågor som Region Halland kan leverera. En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra, men inte var, hur eller av vem den utförs.
 
 **Verksamhetsvyer**
-- *Organisationsvyer* - Visar vem som innehar en viss roll i vår IT-styrning, Systemförvaltning & Tjänsteleverans.
-- *Värdekedjor* - Beskriver hur Region Hallands kundresor är uppbyggda med hjälp av Verksamhetsförmågor.
-- *Processkartor* - Processkartorna är ett taktiskt verktyg som möjliggör för oss att enklare kunna kommunicera kring hur kundresan skall kunna realiseras i våra verksamheter.
-- *Grunduppdrag* - Visar vad grunduppdraget är för våra olika grupperingar inom vår IT-organisation. Bygger på modellen Business Model Canvas (BMC)
+
+  - *Organisationsvyer* - Visar vem som innehar en viss roll i vår IT-styrning, Systemförvaltning & Tjänsteleverans.
+  - *Värdekedjor* - Beskriver hur Region Hallands kundresor är uppbyggda med hjälp av Verksamhetsförmågor.
+  - *Processkartor* - Processkartorna är ett taktiskt verktyg som möjliggör för oss att enklare kunna kommunicera kring hur kundresan skall kunna realiseras i våra verksamheter.
+  - *Grunduppdrag* - Visar vad grunduppdraget är för våra olika grupperingar inom vår IT-organisation. Bygger på modellen Business Model Canvas (BMC)
 
 **Tjänstevyer**
 - *Tjänsteportföljer* - Visar vilka tjänster Region Halland tillhandahåller på olika nivåer.
