@@ -56,7 +56,7 @@ För att visualisera vår arkitektur använder vi vyer (diagram) som är uppbygg
 
 - TBD
 
-![Värdekedja](/images/metoder/icon_vardekedja.png "Ett steg i en Värdekedja. Då det (ännu) inte finns någon symbol i ArchiMate för detta så använder vi en allmän symbol för värdekedjor här. Det finns dock förslag om att ta in denna symbol i ArchiMate.")
+![Värdekedja](/images/metoder/icon_verksamhetsformaga.png "Ett steg i en Värdekedja. Då det (ännu) inte finns någon symbol i ArchiMate för detta så använder vi en allmän symbol för värdekedjor här. Det finns dock förslag om att ta in denna symbol i ArchiMate.")
 
 ![Verksamhetsförmåga](/images/metoder/icon_verksamhetsformaga.png "En Verksamhetsfömåga beskriver VAD vi som organisation kan utföra. Vi använder ArchiMate symbolen Capability för att illustrera en Verksamhetsförmåga.")
 
