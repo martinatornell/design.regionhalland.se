@@ -33,6 +33,11 @@ Stories i DevOps är kanske den viktigaste pusselbiten då det är här man konk
 ##### Tasks
 Om en produktägare, eller objektledare, är den som skriver Features och Stories så bör arbetet med Tasks hanteras av det utförande teamet. Tasks är teamets chans att i varje sprint själva tydliggöra och fördela arbetet kring hur man uppfyller acceptanskriterierna på en viss Story. Vi skriver alltid minst en Task per Story, detta ger oss också bl.a. möjligheten att följa upp tiden i burn-down charts då tiden läggs per Task. 
 
+### Predecessor/Successor
+Work items kan länkas till varandra för att skapa beroenden. Det tydliggör i vilken ordning de behöver göras. Länkningen kallas Predecessor/Successor och speglar egentligen två olika perspektiv beroende på från vilket håll länkningen betraktas. En hjälp med att välja länktyp är följande:
+Välj Predecessor, när länkning görs till work item som ska vara slutfört **före** den work item du länkar ifrån.
+Välj Successor, när länkning görs till work item som ska vara slutfört **efter** den work item du länkar ifrån.
+
 ### Pipelines
 En pipeline är den process man sätter upp i Azure DevOps för att lansera/bygga en tjänst. En typisk pipeline kan vara att man kompilerar all kod som driver tjänsten, kör ett antal tester för att kontrollera att allt fungerar och publicerar sedan tjänsten på en server så att användarna får en ny version.
 
