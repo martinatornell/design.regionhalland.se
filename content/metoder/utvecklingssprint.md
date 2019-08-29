@@ -8,13 +8,20 @@ weight: 0
 ---
 ## Inför Sprintplanering
 
-Kravställarna äger backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina [User Stories](/metoder/userstories/) och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive [User Story](/metoder/userstories/). Under detta arbete kan det vara lämpligt att även bryta ner varje story i [Tasks](/verktyg/devops/#tasks).
+Kravställarna äger backloggen och ser till att de är tillräckligt detaljerade för att tidsuppskattas. Kravställarna uppmärksammar utvecklarna på User Stories som behöver tidsuppskattas. Utvecklarna skapar då upp [Tasks](/verktyg/devops/#tasks) som beskriver de tekniska åtgärder som behövs för att förverkliga respektive [User Story](/metoder/userstories/). Minst en [Tasks](/verktyg/devops/#tasks) ska läggas till varje [User Story](/metoder/userstories/). Förutom en beskrining på [Tasks](/verktyg/devops/#tasks) så sätter systemutvecklaren sin uppskattade tid på "Original Estimate" och "Remaining" samt anger vilken typ av arbete det gäller under "Activity". Summan av "Original estimate" och "Remaining" kan summeras upp till [User Story](/metoder/userstories/). 
 
-Detta är något som sker fortlöpande hela tiden. Det gäller att hålla [Backloggen](/verktyg/devops/#backlog) levande och aktuell, det är kravställarens ansvar. Arbetet med Backloggen fortsätter alltså under hela sprinten parallellt.
+Om en [User Story](/metoder/userstories/) inte är tillräckligt beskriven för att kunna brytas ner i [Tasks](/verktyg/devops/#tasks) och tidsuppskattas på ett hållbart sätt, så måste utvecklaren meddela kravställaren om detta så att kompletteringar av [User Story](/metoder/userstories/) kan göras.
+
+Den uppskattade tiden för genomförande kan ha en stark påverkan på prioriteringen så först när tidsuppskattningen finns på plats så kan kravställarna prioritera sina [User Stories](/metoder/userstories/).
+
+Arbetet med [User Stories](/metoder/userstories/) och [Tasks](/verktyg/devops/#tasks) är något som sker fortlöpande hela tiden. Det gäller att hålla [Backloggen](/verktyg/devops/#backlog) levande och aktuell, det är kravställarens ansvar. Arbetet med Backloggen fortsätter alltså under hela sprinten parallellt genom att nya [User Stories](/metoder/userstories/) läggs till, befintliga förtydligas och prioriteringar diskuteras.
 
 ## Sprintplaneringen
 
 På sprintplaneringen prioriteras slutligen vilka User Stories som ska tas in i sprinten och respektive Task tilldelas en person i teamet. De User Stories som får plats i sprinten läggs över från Backloggen till sprinten, därmed assignas även tillhörande Tasks till sprinten.
+Systemutvecklarnas tillgängliga tider läggs in i DevOps och dessa matchas mot tidsuppskattningarna, vilket gör att alla får en beläggning som motsvarar tillgängligheten.
+
+User Stories är nästan alltid assignade till kravställaren och Task är nästan alltid assignade till utvecklaren.
 
 ## Under utvecklingssprinten
 
@@ -30,6 +37,8 @@ När en User Story är satt till Resolved tar kravställaren och testar den leve
 
 Om kravställaren godkänner leveransen av storyn sätter hen om den till Closed. Om det uppstår frågor används Diskussions-funktionen på User Storyn.
 
+### Buggar 
+
 Hittas buggar ska de registreras i DevOps genom att på User Storyn lägga till en bugg. Beskrivningen av buggen ska innehålla tillräcklig information för att utvecklaren ska kunna återskapa samma fel. Skärmdump på eventuellt felmeddelande och vid webblösningar får gärna urlen till den felande sidan synas tydligt i skärmdumpen. Tilldela sedan buggen till den utvecklare som jobbat med User Storyn.
 
 När utvecklaren påbörjar felsökningen av Buggen sätter hen om den till Active. Eventuella kompletteringar och frågor hanteras genom Diskussionsfunktionen på ärendet i DevOps. Om utvecklaren inte kan felsöka för att det inte finns tillräckligt med information sätts Buggen tillbaka till den som rapporterade den.
@@ -40,9 +49,13 @@ När utvecklaren rättat buggen och lagt upp den i testmiljön sätter hen om de
 
 Kravställaren testar att buggen verkligen är rättad och efter verfiering sätter om buggen till Closed.
 
+### Avstämning
+
+Det är viktigt att kravställare och utvecklare stämmer av under sprinten så att det inte uppstår komplikationer som kan riskera att försvåra eller fördröja arbetet.
+
 ## Sprintslut
 
-I en perfekt sprint finns det varken öppna buggar eller user storys kvar... Men i verkligheten har man kanske både en User Story och ett par buggar kvar som man inte hunnit stänga i sprinten. Dessa måste hanteras innan sprinten tar slut.
+I en perfekt sprint finns det varken öppna buggar eller user storys kvar... Men i verkligheten har man kanske både en User Story och ett par buggar kvar som man inte hunnit stänga i sprinten. Dessa måste hanteras innan sprinten tar slut, ofta genom att de flyttas över till kommande sprintar. Det är viktigt att utvecklaren planerar sitt arbete axtra noga mot slutet av sprinten så att det vid sprintslut går att leverera genomförda User Stories.
 
 ### Ej påbörjade User Storys
 
