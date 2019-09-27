@@ -14,8 +14,8 @@ Produktägarens primära arbetsuppgift är att hantera, prioritera och kommunice
 - Följa upp och ansvara för att produkten/tjänsten levererar värde utifrån givna mätetal/indikatorer
 - Skapa och prioritera [User stories](/metoder/userstories/) i backloggen.
 - Kommunicera prioriteringen av backloggen till stakeholders och övriga intressenter.
-- Ansvarar för att team och övriga intressenter förstår innebörden i existerande user stories
-- Planera teamets arbete i kommande sprintar
+- Ansvarar för att team och övriga intressenter förstår innebörden i existerande user stories.
+- Planera teamets arbete i kommande sprintar och omvärldsbevaka
 
 ## Läs mer om produktägarskap
 - [Product Owner - Mountain Goat Software](https://www.mountaingoatsoftware.com/agile/scrum/roles/product-owner)
