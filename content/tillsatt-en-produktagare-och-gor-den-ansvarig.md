@@ -5,3 +5,14 @@ draft: false
 description: "Varje tjänst vi producerar skall ha en tydlig ägare. Produktägaren är den självklara kontakten för alla stakeholders och leder utvecklingsteamen i deras arbete."
 weight: 0
 ---
+En central framgångsfaktor för att skapa enkla och omtyckta tjänster/produkter är att ha en person som har det övergripande ansvaret för att tjänsten ska generera värde. Inom ramen för de flesta agila metodikerna finns rollen produktägare för att säkerställa att man producerar rätt sak vid rätt tillfälle.
+
+## Vad gör en produktägare?
+Produktägarens primära arbetsuppgift är att hantera, prioritera och kommunicera backloggens innehåll till sina team och intressenter. 
+
+Arbetsuppgifter för en produktägare:
+- Följa upp och ansvara för att produkten/tjänsten levererar värde utifrån givna mätetal/indikatorer
+- Skapa och prioritera [User stories](/metoder/userstories/) i backloggen.
+- Kommunicera prioriteringen av backloggen till stakeholders och övriga intressenter.
+- Ansvarar för att team och övriga intressenter förstår innebörden i existerande user stories
+- Planera teamets arbete i kommande sprintar
