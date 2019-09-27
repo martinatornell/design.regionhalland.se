@@ -10,9 +10,14 @@ En central framgångsfaktor för att skapa enkla och omtyckta tjänster/produkte
 ## Vad gör en produktägare?
 Produktägarens primära arbetsuppgift är att hantera, prioritera och kommunicera backloggens innehåll till sina team och intressenter. 
 
-Arbetsuppgifter för en produktägare:
+### Arbetsuppgifter för en produktägare:
 - Följa upp och ansvara för att produkten/tjänsten levererar värde utifrån givna mätetal/indikatorer
 - Skapa och prioritera [User stories](/metoder/userstories/) i backloggen.
 - Kommunicera prioriteringen av backloggen till stakeholders och övriga intressenter.
 - Ansvarar för att team och övriga intressenter förstår innebörden i existerande user stories
 - Planera teamets arbete i kommande sprintar
+
+## Läs mer om produktägarskap
+- [Product Owner - Mountain Goat Software](https://www.mountaingoatsoftware.com/agile/scrum/roles/product-owner)
+- [7 Key Product Owner Responsibilities](https://www.lucidchart.com/blog/product-owner-roles-and-responsibilities)
+- [So what does a Product Owner actually do?](https://medium.com/@Elabor8/so-what-does-a-product-owner-actually-do-51d738f352c6)
