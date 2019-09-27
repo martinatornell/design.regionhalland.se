@@ -174,7 +174,7 @@ Som användartyp vill jag mål/önskan/händelse så att syfte   Användartyp �
       
       <guid>http://localhost:1313/anvand-moderna-tekniklosningar/</guid>
       <description>De val vi gör gällande teknik måste i första hand främja våra utvecklingsteam så att de kan arbeta effektivt och så snabbt som möjligt leverera bästa tänkbara lösning för våra användare. Våra val av databaser, ramverk, servrar m.m. skall kunna hantera skalbarhet och motvärka inlåsningseffekter till en viss teknik eller leverantör. Vi bör alltid sträva efter att nyttja tekniker med standardiserade lösningar, gärna som bygger på öppen källkod.
-Nyckelfrågor  inns det risk för att vi valt en teknik som låser oss till en viss leverantör eller arkitektur?</description>
+Nyckelfrågor  Finns det risk för att vi valt en teknik som låser oss till en viss leverantör eller arkitektur?</description>
     </item>
     
     <item>
