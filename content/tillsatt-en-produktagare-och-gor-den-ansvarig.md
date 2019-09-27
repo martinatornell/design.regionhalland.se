@@ -11,8 +11,8 @@ En central framgångsfaktor för att skapa enkla och omtyckta tjänster/produkte
 Produktägarens primära arbetsuppgift är att hantera, prioritera och kommunicera backloggens innehåll till sina team och intressenter. 
 
 Arbetsuppgifter för en produktägare:
-- Följa upp och ansvara för att produkten/tjänsten levererar värde utifrån givna mätetal/indikatorer
-- Skapa och prioritera [User stories](/metoder/userstories/) i backloggen.
-- Kommunicera prioriteringen av backloggen till stakeholders och övriga intressenter.
-- Ansvarar för att team och övriga intressenter förstår innebörden i existerande user stories
-- Planera teamets arbete i kommande sprintar
+  - Följa upp och ansvara för att produkten/tjänsten levererar värde utifrån givna mätetal/indikatorer
+  - Skapa och prioritera [User stories](/metoder/userstories/) i backloggen.
+  - Kommunicera prioriteringen av backloggen till stakeholders och övriga intressenter.
+  - Ansvarar för att team och övriga intressenter förstår innebörden i existerande user stories
+  - Planera teamets arbete i kommande sprintar
