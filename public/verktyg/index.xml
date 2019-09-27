@@ -28,7 +28,17 @@
       
       <guid>http://localhost:1313/verktyg/devops/</guid>
       <description>För att kunna följa arbetet med våra olika utveklingsinitivativ, lagra källkod och säkerställa gemensamma arbetsätt använder vi verktyget Azure DevOps.
- Logga in i DevOps  Begrepp i DevOps Backlog Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg beskrivas som det kommande arbetet för ett team eller projekt. Det är i backloggen man samlar på sig och prioriterar arbetsuppgifter (workitems). På många sätt kan backloggen ses som en kravlista men med skillanden att backloggen är ett leveande dokument.</description>
+Logga in i DevOps  Begrepp i DevOps Backlog Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg beskrivas som det kommande arbetet för ett team eller projekt. Det är i backloggen man samlar på sig och prioriterar arbetsuppgifter (workitems). På många sätt kan backloggen ses som en kravlista men med skillanden att backloggen är ett leveande dokument.</description>
+    </item>
+    
+    <item>
+      <title>Sparx</title>
+      <link>http://localhost:1313/verktyg/sparx/</link>
+      <pubDate>Mon, 11 Feb 2019 09:17:43 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/sparx/</guid>
+      <description>Tips &amp;amp; tricks Klippa &amp;amp; klistra En sak att tänka på med Sparx är när man kopierar in komponenter från ett diagram till ett annat. Om man använder CTRL-V för att klistra in en komponent (t.ex. en text ruta) så kopierar man in samma komponent. Detta medför att om man ändrar texten på ett ställe så ändras den också på det andra stället.
+För att undvika detta så behöver man (om man vill att det skall vara olika objekt) använda CTRL-SHIFT-V (eller högerklicka och använd &amp;ldquo;Paste&amp;rdquo; -&amp;gt; &amp;ldquo;Element(s) as New)&amp;rdquo;) när man klistrar in en komponent.</description>
     </item>
     
     <item>

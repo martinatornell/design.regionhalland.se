@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/metoder/kundresa_till_arkitektur/</loc>
+    <lastmod>2019-04-10T18:07:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/verktyg/archimate/</loc>
     <lastmod>2019-02-11T09:17:43+01:00</lastmod>
   </url>
@@ -35,6 +40,16 @@
   <url>
     <loc>http://localhost:1313/verktyg/devops/</loc>
     <lastmod>2019-02-11T09:17:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/verktyg/sparx/</loc>
+    <lastmod>2019-02-11T09:17:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/metoder/arkitektur/</loc>
+    <lastmod>2017-04-01T12:21:15+00:00</lastmod>
   </url>
   
   <url>

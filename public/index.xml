@@ -22,6 +22,17 @@ Nyckelfrågor  Vem är den primära användaren av tjänsten? Varför vill anvä
     </item>
     
     <item>
+      <title>Från kundresa till arkitektur</title>
+      <link>http://localhost:1313/metoder/kundresa_till_arkitektur/</link>
+      <pubDate>Wed, 10 Apr 2019 18:07:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/metoder/kundresa_till_arkitektur/</guid>
+      <description>Översikt Utifrån Kundresan tar vi fram en Värdekedja, en Process och en första arkitekturskiss. Dessa visar Kundresan ur tre olika perspektiv.
+Värdekedjan fokuserar endast på VAD som sker och ger ett strategiskt verktyg för att kunna beskriva vilka Förmågor vi behöver sätta på plats eller förbättra.
+Processen fokuserar, utöver VAD, också på HUR, VEM och i VILKEN ORDNING saker och ting skall ske. Processen ger ett taktiskt verktyg för att kunna fungera för hur Kundresan skall kunna implementeras.</description>
+    </item>
+    
+    <item>
       <title>ArchiMate</title>
       <link>http://localhost:1313/verktyg/archimate/</link>
       <pubDate>Mon, 11 Feb 2019 09:17:43 +0100</pubDate>
@@ -38,7 +49,27 @@ Nyckelfrågor  Vem är den primära användaren av tjänsten? Varför vill anvä
       
       <guid>http://localhost:1313/verktyg/devops/</guid>
       <description>För att kunna följa arbetet med våra olika utveklingsinitivativ, lagra källkod och säkerställa gemensamma arbetsätt använder vi verktyget Azure DevOps.
- Logga in i DevOps  Begrepp i DevOps Backlog Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg beskrivas som det kommande arbetet för ett team eller projekt. Det är i backloggen man samlar på sig och prioriterar arbetsuppgifter (workitems). På många sätt kan backloggen ses som en kravlista men med skillanden att backloggen är ett leveande dokument.</description>
+Logga in i DevOps  Begrepp i DevOps Backlog Devops är bl.a. ett verktyg för att hantera backlogs. Enkelt kan en backlogg beskrivas som det kommande arbetet för ett team eller projekt. Det är i backloggen man samlar på sig och prioriterar arbetsuppgifter (workitems). På många sätt kan backloggen ses som en kravlista men med skillanden att backloggen är ett leveande dokument.</description>
+    </item>
+    
+    <item>
+      <title>Sparx</title>
+      <link>http://localhost:1313/verktyg/sparx/</link>
+      <pubDate>Mon, 11 Feb 2019 09:17:43 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/sparx/</guid>
+      <description>Tips &amp;amp; tricks Klippa &amp;amp; klistra En sak att tänka på med Sparx är när man kopierar in komponenter från ett diagram till ett annat. Om man använder CTRL-V för att klistra in en komponent (t.ex. en text ruta) så kopierar man in samma komponent. Detta medför att om man ändrar texten på ett ställe så ändras den också på det andra stället.
+För att undvika detta så behöver man (om man vill att det skall vara olika objekt) använda CTRL-SHIFT-V (eller högerklicka och använd &amp;ldquo;Paste&amp;rdquo; -&amp;gt; &amp;ldquo;Element(s) as New)&amp;rdquo;) när man klistrar in en komponent.</description>
+    </item>
+    
+    <item>
+      <title>Arkitektur</title>
+      <link>http://localhost:1313/metoder/arkitektur/</link>
+      <pubDate>Sat, 01 Apr 2017 12:21:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/metoder/arkitektur/</guid>
+      <description>Introduktion Principer Våra grundläggande arkitekturprinciper
+Hög Sammanhållning (Cohesion) och Låg Koppling (Coupling) Inom mjukvarudesign pratar man ofta om begreppen Cohesion (sammanhållning) och Coupling (koppling). Där sammanhållning är ett mått på graden av komponentens delar som funktionellt relaterade. Det kan sägas vara i vilken grad alla element som är inriktade på att utföra en enskild uppgift finns i komponenten. Koppling är sin tur måttet på graden av ömsesidigt beroende mellan olika komponenter.</description>
     </item>
     
     <item>
@@ -47,8 +78,7 @@ Nyckelfrågor  Vem är den primära användaren av tjänsten? Varför vill anvä
       <pubDate>Sat, 25 Feb 2017 13:13:15 +0000</pubDate>
       
       <guid>http://localhost:1313/metoder/ide_till_produktion/</guid>
-      <description>Översikt Vårt utvecklingsflöde för digitala tjänster baseras på följande process flöde:
- Vi samlar in behov som är baserade på:  kundbehov strategiska mål regler och lagstiftning förändringar i affärsvillkor eller teknik  Vi hanterar alla inkommande krav och skapar koncept utifrån behoven Genom portföljhantering utvärderar vi koncepten och leder dem till utvecklingsköer Utvecklingsteam utvecklar koncepten till realiserade tjänster eller produkter enligt agila metoder. Realiserade tjänster och produkter hanteras därefter med hjälp av våra ITSM processer av RGS IT.</description>
+      <description>Drivkrafter  Kontinuerlig förändring med nya digitala tekniker driver kräver ett förändrat arbetssätt. Den övergripande utvecklingen måste organiseras kring att skapa och leverera mervärde till kunden. Vi måste vara effektivare och kunna tillhandahålla nya digitala tjänster. Kundresan måste vara den viktigaste drivkraften för oss i denna digitala era. Nya tjänster måste utformas efter kundbehov. Hastigheten och volymen av nya tjänster kommer att öka, därför behöver vi förändra vårt sätt att arbeta med digitala förändringar.</description>
     </item>
     
     <item>
@@ -57,8 +87,7 @@ Nyckelfrågor  Vem är den primära användaren av tjänsten? Varför vill anvä
       <pubDate>Wed, 20 Mar 2019 08:10:27 +0100</pubDate>
       
       <guid>http://localhost:1313/metoder/utvecklingssprint/</guid>
-      <description>Inför Sprintplanering Kravställarna äger backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina User Stories och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive User Story. Under detta arbete kan det vara lämpligt att även bryta ner varje story i Tasks.
-Detta är något som sker fortlöpande hela tiden. Det gäller att hålla Backloggen levande och aktuell, det är kravställarens ansvar.</description>
+      <description>Inför Sprintplanering Kravställarna äger backloggen och ser till att de är tillräckligt detaljerade för att tidsuppskattas. Kravställarna uppmärksammar utvecklarna på User Stories som behöver tidsuppskattas. Utvecklarna skapar då upp Tasks som beskriver de tekniska åtgärder som behövs för att förverkliga respektive User Story. Minst en Tasks ska läggas till varje User Story. Förutom en beskrining på Tasks så sätter systemutvecklaren sin uppskattade tid på &amp;ldquo;Original Estimate&amp;rdquo; och &amp;ldquo;Remaining&amp;rdquo; samt anger vilken typ av arbete det gäller under &amp;ldquo;Activity&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -258,6 +287,18 @@ Hur förbättras din tjänst? Att interagera med Region Halland innebär i princ
     </item>
     
     <item>
+      <title>Handböcker för införande av digitala tjänster</title>
+      <link>http://localhost:1313/verktyg/handbocker/inforande_digitala_tjanster/</link>
+      <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/handbocker/inforande_digitala_tjanster/</guid>
+      <description>ARBETE PÅGÅR!  Denna sida är just nu under arbete och kommer att uppdateras/ändras. Har du synpunkter på innehållet så använd gärna feedback formuläret längst ner på sidan.
+ Ordnat införande - våra 3 spår
+Visa stor bild    Tjänster vi inte själva använder men har tagit in i vårt utbud och ebentuellt använder data från. Tjänster vi själva använder i vårt arbete.&amp;rdquo;
+Spår 1 - Fristående tjänster som vi rekomenderar: Viktigt att tydliggöra att det endast är en rekommendation, att vi inte har något ansvar för tjänsten, inga data utbyts.</description>
+    </item>
+    
+    <item>
       <title>Hitta rätt team</title>
       <link>http://localhost:1313/community/hitta-ratt-team/</link>
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
@@ -348,7 +389,7 @@ Steg för steg    Leta upp den sida du vill redigera &amp;hellip;och klicka på 
       <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
       
       <guid>http://localhost:1313/verktyg/handbocker/grafisk-profil/logotyp/</guid>
-      <description>Vår logotyp   Ladda hem våra logotyper  Regionens kvalitetsstämpel Region Hallands logotyp är regionens kvalitetsstämpel och därför central för den grafiska profilen. Genom att alltid använda logotypen som avsändare när vi kommunicerar ökar igenkänningen och genomslagskraften. Vi vårdar därmed vårt varumärke och skapar också en tillit till Region Halland.
+      <description>Vår logotyp  Ladda hem våra logotyper  Regionens kvalitetsstämpel Region Hallands logotyp är regionens kvalitetsstämpel och därför central för den grafiska profilen. Genom att alltid använda logotypen som avsändare när vi kommunicerar ökar igenkänningen och genomslagskraften. Vi vårdar därmed vårt varumärke och skapar också en tillit till Region Halland.
 Logotypens symbolik Logotypen består av symbol och text. Symbolen utgörs av en visualiserad bild av Halland, illustrerad av två penseldrag.</description>
     </item>
     

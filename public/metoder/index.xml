@@ -12,13 +12,33 @@
     
     
     <item>
+      <title>Från kundresa till arkitektur</title>
+      <link>http://localhost:1313/metoder/kundresa_till_arkitektur/</link>
+      <pubDate>Wed, 10 Apr 2019 18:07:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/metoder/kundresa_till_arkitektur/</guid>
+      <description>Översikt Utifrån Kundresan tar vi fram en Värdekedja, en Process och en första arkitekturskiss. Dessa visar Kundresan ur tre olika perspektiv.
+Värdekedjan fokuserar endast på VAD som sker och ger ett strategiskt verktyg för att kunna beskriva vilka Förmågor vi behöver sätta på plats eller förbättra.
+Processen fokuserar, utöver VAD, också på HUR, VEM och i VILKEN ORDNING saker och ting skall ske. Processen ger ett taktiskt verktyg för att kunna fungera för hur Kundresan skall kunna implementeras.</description>
+    </item>
+    
+    <item>
+      <title>Arkitektur</title>
+      <link>http://localhost:1313/metoder/arkitektur/</link>
+      <pubDate>Sat, 01 Apr 2017 12:21:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/metoder/arkitektur/</guid>
+      <description>Introduktion Principer Våra grundläggande arkitekturprinciper
+Hög Sammanhållning (Cohesion) och Låg Koppling (Coupling) Inom mjukvarudesign pratar man ofta om begreppen Cohesion (sammanhållning) och Coupling (koppling). Där sammanhållning är ett mått på graden av komponentens delar som funktionellt relaterade. Det kan sägas vara i vilken grad alla element som är inriktade på att utföra en enskild uppgift finns i komponenten. Koppling är sin tur måttet på graden av ömsesidigt beroende mellan olika komponenter.</description>
+    </item>
+    
+    <item>
       <title>Från idé till produktion</title>
       <link>http://localhost:1313/metoder/ide_till_produktion/</link>
       <pubDate>Sat, 25 Feb 2017 13:13:15 +0000</pubDate>
       
       <guid>http://localhost:1313/metoder/ide_till_produktion/</guid>
-      <description>Översikt Vårt utvecklingsflöde för digitala tjänster baseras på följande process flöde:
- Vi samlar in behov som är baserade på:  kundbehov strategiska mål regler och lagstiftning förändringar i affärsvillkor eller teknik  Vi hanterar alla inkommande krav och skapar koncept utifrån behoven Genom portföljhantering utvärderar vi koncepten och leder dem till utvecklingsköer Utvecklingsteam utvecklar koncepten till realiserade tjänster eller produkter enligt agila metoder. Realiserade tjänster och produkter hanteras därefter med hjälp av våra ITSM processer av RGS IT.</description>
+      <description>Drivkrafter  Kontinuerlig förändring med nya digitala tekniker driver kräver ett förändrat arbetssätt. Den övergripande utvecklingen måste organiseras kring att skapa och leverera mervärde till kunden. Vi måste vara effektivare och kunna tillhandahålla nya digitala tjänster. Kundresan måste vara den viktigaste drivkraften för oss i denna digitala era. Nya tjänster måste utformas efter kundbehov. Hastigheten och volymen av nya tjänster kommer att öka, därför behöver vi förändra vårt sätt att arbeta med digitala förändringar.</description>
     </item>
     
     <item>
@@ -27,8 +47,7 @@
       <pubDate>Wed, 20 Mar 2019 08:10:27 +0100</pubDate>
       
       <guid>http://localhost:1313/metoder/utvecklingssprint/</guid>
-      <description>Inför Sprintplanering Kravställarna äger backloggen och inför sprintplaneringen ser kravställarna till att prioritera sina User Stories och ser till att de högst prioriterade är tillräckligt detaljerade för att tidsuppskattas. Utvecklarna sätter då Story Points (ungefärligt antal timmar för att implementera storyn) på respektive User Story. Under detta arbete kan det vara lämpligt att även bryta ner varje story i Tasks.
-Detta är något som sker fortlöpande hela tiden. Det gäller att hålla Backloggen levande och aktuell, det är kravställarens ansvar.</description>
+      <description>Inför Sprintplanering Kravställarna äger backloggen och ser till att de är tillräckligt detaljerade för att tidsuppskattas. Kravställarna uppmärksammar utvecklarna på User Stories som behöver tidsuppskattas. Utvecklarna skapar då upp Tasks som beskriver de tekniska åtgärder som behövs för att förverkliga respektive User Story. Minst en Tasks ska läggas till varje User Story. Förutom en beskrining på Tasks så sätter systemutvecklaren sin uppskattade tid på &amp;ldquo;Original Estimate&amp;rdquo; och &amp;ldquo;Remaining&amp;rdquo; samt anger vilken typ av arbete det gäller under &amp;ldquo;Activity&amp;rdquo;.</description>
     </item>
     
     <item>

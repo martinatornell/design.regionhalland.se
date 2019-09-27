@@ -11,5 +11,17 @@
 	<atom:link href="http://localhost:1313/verktyg/handbocker/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Handböcker för införande av digitala tjänster</title>
+      <link>http://localhost:1313/verktyg/handbocker/inforande_digitala_tjanster/</link>
+      <pubDate>Thu, 24 Jan 2019 11:17:48 +0100</pubDate>
+      
+      <guid>http://localhost:1313/verktyg/handbocker/inforande_digitala_tjanster/</guid>
+      <description>ARBETE PÅGÅR!  Denna sida är just nu under arbete och kommer att uppdateras/ändras. Har du synpunkter på innehållet så använd gärna feedback formuläret längst ner på sidan.
+ Ordnat införande - våra 3 spår
+Visa stor bild    Tjänster vi inte själva använder men har tagit in i vårt utbud och ebentuellt använder data från. Tjänster vi själva använder i vårt arbete.&amp;rdquo;
+Spår 1 - Fristående tjänster som vi rekomenderar: Viktigt att tydliggöra att det endast är en rekommendation, att vi inte har något ansvar för tjänsten, inga data utbyts.</description>
+    </item>
+    
   </channel>
 </rss>
