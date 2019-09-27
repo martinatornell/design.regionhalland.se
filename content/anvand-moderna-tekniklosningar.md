@@ -6,7 +6,7 @@ draft: false
 description: "De val vi gör gällande teknik måste i första hand främja våra utvecklingsteam så att de kan arbeta effektivt och så snabbt som möjligt leverera bästa tänkbara lösning för våra användare."
 weight: 0
 ---
-De val vi gör gällande teknik måste i första hand främja våra utvecklingsteam så att de kan arbeta effektivt och så snabbt som möjligt leverera bästa tänkbara lösning för våra användare. Våra val av databaser, ramverk, servrar m.m. skall kunna hantera skalbarhet och motvärka inlåsningseffekter till en viss teknik eller leverantör. Vi bör alltid sträva efter att nyttja tekniker med standardiserade lösningar, gärna som bygger på öppen källkod.
+De val vi gör gällande teknik måste i första hand främja våra utvecklingsteam så att de kan arbeta effektivt och så snabbt som möjligt leverera bästa tänkbara lösning för våra användare. Våra val av databaser, ramverk, servrar m.m. skall kunna hantera skalbarhet och motverka inlåsningseffekter till en viss teknik eller leverantör. Vi bör alltid sträva efter att nyttja tekniker med standardiserade lösningar, gärna som bygger på öppen källkod.
 
 ## Nyckelfrågor
 - Finns det risk för att vi valt en teknik som låser oss till en viss leverantör eller arkitektur?
