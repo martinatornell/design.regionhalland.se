@@ -3,7 +3,7 @@ title: "Välkomma förändring"
 linktitle: "Välkomma förändring"
 date: 2019-09-26T14:24:36+01:00
 draft: false
-description: "Här skriver du en beskrivning av området"
+description: "Att förbättra något betyder inte att det är dåligt nu utan just att det går att göra bättre – lite lättare att använda, lite snyggare, lite mer funktionalitet, lite billigare etc. Det mesta går att skruva på så det blir lite bättre. Därför ska vi välkomna förändring!"
 weight: 0
 ---
 ## Välkomna förändring
