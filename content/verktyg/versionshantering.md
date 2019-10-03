@@ -1,3 +1,11 @@
+---
+title: "Versionshantering"
+linktitle: "Versionshantering"
+date: 2019-10-03T09:17:43+01:00
+draft: false
+description: "Vi använder semantic versioning för att versionshantera inom Region Halland."
+weight: 1000
+---
 ## Inledning 
 Detta dokument är en bilaga till utvecklingshandboken och syftar till att beskriva hur vi versionshanterar systemutveckling. Vissa delar är generella och andra mer specifika och beroende av teknikstack. 
 
