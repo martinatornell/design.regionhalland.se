@@ -31,7 +31,7 @@ Så fort vi tar bort något som påverkar schema i databasen, eller ändrar data
 ## Visual Studio
 Vi använder egenskapsparametrarna i respektive projekt för att ange versionssiffrorna. I huvudsak handlar det om ”Assembly version” men för att få till tidsstämpel så har vi valt att även utnyttja fältet ”Trademark”. Översättningen mellan standarden för Semantic Versioning och Visual Studio blir då:
 
-
+{{<figure src="/images/metoder/versionshantering1.png" link="/images/metoder/versionshantering1.png" title="Versionshantering i Visual Studio">}}
 
 Vi använder både Assembly och File Version. Assembly Version är den som kommer att visas i programmet och File Version visas på klassbibliotekens kompilerade filer. Assembly och File Version ska alltid vara samma, både i varje projekt och mellan projekten i en Solution.
 
