@@ -25,4 +25,14 @@ Motsvarande värden för versionsnumrering ska användas för applikationens dat
 ## Exempel 
 Om vi har en version 1.0.0 och bara lägger till saker, schemamässigt i databasen, då stegas versionen inom enbart i minor. 
 
-Så fort vi tar bort något som påverkar schema i databasen, eller ändrar datatyp för en kolumn så stegas ovanstående exempel i major.  
+Så fort vi tar bort något som påverkar schema i databasen, eller ändrar datatyp för en kolumn så stegas ovanstående exempel i major. 
+
+
+## Visual Studio
+Vi använder egenskapsparametrarna i respektive projekt för att ange versionssiffrorna. I huvudsak handlar det om ”Assembly version” men för att få till tidsstämpel så har vi valt att även utnyttja fältet ”Trademark”. Översättningen mellan standarden för Semantic Versioning och Visual Studio blir då:
+
+
+
+Vi använder både Assembly och File Version. Assembly Version är den som kommer att visas i programmet och File Version visas på klassbibliotekens kompilerade filer. Assembly och File Version ska alltid vara samma, både i varje projekt och mellan projekten i en Solution.
+
+I samband med att applikationen släpps till test och/eller produktion så ska den checkas in och en label ska sättas på incheckningen. Detta görs via File | Source Control | Advanced | Apply label. En sådan label ska vara ”Version 1.25.104”.
